@@ -1,0 +1,5142 @@
+[
+    {
+        "images": [
+            "nightSequence1--01352.jpg",
+            "nightSequence1--01353.jpg",
+            "nightSequence1--01354.jpg",
+            "nightSequence1--01355.jpg",
+            "nightSequence1--01356.jpg",
+            "nightSequence1--01357.jpg",
+            "nightSequence1--01358.jpg",
+            "nightSequence1--01359.jpg",
+            "nightSequence1--01360.jpg",
+            "nightSequence1--01361.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00450.jpg",
+            "nightSequence1--00451.jpg",
+            "nightSequence1--00452.jpg",
+            "nightSequence1--00453.jpg",
+            "nightSequence1--00454.jpg",
+            "nightSequence1--00455.jpg",
+            "nightSequence1--00456.jpg",
+            "nightSequence1--00457.jpg",
+            "nightSequence1--00458.jpg",
+            "nightSequence1--00459.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03725.jpg",
+            "nightSequence1--03726.jpg",
+            "nightSequence1--03727.jpg",
+            "nightSequence1--03728.jpg",
+            "nightSequence1--03729.jpg",
+            "nightSequence1--03730.jpg",
+            "nightSequence1--03731.jpg",
+            "nightSequence1--03732.jpg",
+            "nightSequence1--03733.jpg",
+            "nightSequence1--03734.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01663.jpg",
+            "nightSequence1--01664.jpg",
+            "nightSequence1--01665.jpg",
+            "nightSequence1--01666.jpg",
+            "nightSequence1--01667.jpg",
+            "nightSequence1--01668.jpg",
+            "nightSequence1--01669.jpg",
+            "nightSequence1--01670.jpg",
+            "nightSequence1--01671.jpg",
+            "nightSequence1--01672.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00424.jpg",
+            "nightSequence1--00425.jpg",
+            "nightSequence1--00426.jpg",
+            "nightSequence1--00427.jpg",
+            "nightSequence1--00428.jpg",
+            "nightSequence1--00429.jpg",
+            "nightSequence1--00430.jpg",
+            "nightSequence1--00431.jpg",
+            "nightSequence1--00432.jpg",
+            "nightSequence1--00433.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01302.jpg",
+            "nightSequence1--01303.jpg",
+            "nightSequence1--01304.jpg",
+            "nightSequence1--01305.jpg",
+            "nightSequence1--01306.jpg",
+            "nightSequence1--01307.jpg",
+            "nightSequence1--01308.jpg",
+            "nightSequence1--01309.jpg",
+            "nightSequence1--01310.jpg",
+            "nightSequence1--01311.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01753.jpg",
+            "nightSequence1--01754.jpg",
+            "nightSequence1--01755.jpg",
+            "nightSequence1--01756.jpg",
+            "nightSequence1--01757.jpg",
+            "nightSequence1--01758.jpg",
+            "nightSequence1--01759.jpg",
+            "nightSequence1--01760.jpg",
+            "nightSequence1--01761.jpg",
+            "nightSequence1--01762.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00500.jpg",
+            "nightSequence1--00501.jpg",
+            "nightSequence1--00502.jpg",
+            "nightSequence1--00503.jpg",
+            "nightSequence1--00504.jpg",
+            "nightSequence1--00505.jpg",
+            "nightSequence1--00506.jpg",
+            "nightSequence1--00507.jpg",
+            "nightSequence1--00508.jpg",
+            "nightSequence1--00509.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03249.jpg",
+            "nightSequence1--03250.jpg",
+            "nightSequence1--03251.jpg",
+            "nightSequence1--03252.jpg",
+            "nightSequence1--03253.jpg",
+            "nightSequence1--03254.jpg",
+            "nightSequence1--03255.jpg",
+            "nightSequence1--03256.jpg",
+            "nightSequence1--03257.jpg",
+            "nightSequence1--03258.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00550.jpg",
+            "nightSequence1--00551.jpg",
+            "nightSequence1--00552.jpg",
+            "nightSequence1--00553.jpg",
+            "nightSequence1--00554.jpg",
+            "nightSequence1--00555.jpg",
+            "nightSequence1--00556.jpg",
+            "nightSequence1--00557.jpg",
+            "nightSequence1--00558.jpg",
+            "nightSequence1--00559.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01973.jpg",
+            "nightSequence1--01974.jpg",
+            "nightSequence1--01975.jpg",
+            "nightSequence1--01976.jpg",
+            "nightSequence1--01977.jpg",
+            "nightSequence1--01978.jpg",
+            "nightSequence1--01979.jpg",
+            "nightSequence1--01980.jpg",
+            "nightSequence1--01981.jpg",
+            "nightSequence1--01982.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01602.jpg",
+            "nightSequence1--01603.jpg",
+            "nightSequence1--01604.jpg",
+            "nightSequence1--01605.jpg",
+            "nightSequence1--01606.jpg",
+            "nightSequence1--01607.jpg",
+            "nightSequence1--01608.jpg",
+            "nightSequence1--01609.jpg",
+            "nightSequence1--01610.jpg",
+            "nightSequence1--01611.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03159.jpg",
+            "nightSequence1--03160.jpg",
+            "nightSequence1--03161.jpg",
+            "nightSequence1--03162.jpg",
+            "nightSequence1--03163.jpg",
+            "nightSequence1--03164.jpg",
+            "nightSequence1--03165.jpg",
+            "nightSequence1--03166.jpg",
+            "nightSequence1--03167.jpg",
+            "nightSequence1--03168.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04801.jpg",
+            "nightSequence1--04802.jpg",
+            "nightSequence1--04803.jpg",
+            "nightSequence1--04804.jpg",
+            "nightSequence1--04805.jpg",
+            "nightSequence1--04806.jpg",
+            "nightSequence1--04807.jpg",
+            "nightSequence1--04808.jpg",
+            "nightSequence1--04809.jpg",
+            "nightSequence1--04810.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02699.jpg",
+            "nightSequence1--02700.jpg",
+            "nightSequence1--02701.jpg",
+            "nightSequence1--02702.jpg",
+            "nightSequence1--02703.jpg",
+            "nightSequence1--02704.jpg",
+            "nightSequence1--02705.jpg",
+            "nightSequence1--02706.jpg",
+            "nightSequence1--02707.jpg",
+            "nightSequence1--02708.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00510.jpg",
+            "nightSequence1--00511.jpg",
+            "nightSequence1--00512.jpg",
+            "nightSequence1--00513.jpg",
+            "nightSequence1--00514.jpg",
+            "nightSequence1--00515.jpg",
+            "nightSequence1--00516.jpg",
+            "nightSequence1--00517.jpg",
+            "nightSequence1--00518.jpg",
+            "nightSequence1--00519.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01713.jpg",
+            "nightSequence1--01714.jpg",
+            "nightSequence1--01715.jpg",
+            "nightSequence1--01716.jpg",
+            "nightSequence1--01717.jpg",
+            "nightSequence1--01718.jpg",
+            "nightSequence1--01719.jpg",
+            "nightSequence1--01720.jpg",
+            "nightSequence1--01721.jpg",
+            "nightSequence1--01722.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02869.jpg",
+            "nightSequence1--02870.jpg",
+            "nightSequence1--02871.jpg",
+            "nightSequence1--02872.jpg",
+            "nightSequence1--02873.jpg",
+            "nightSequence1--02874.jpg",
+            "nightSequence1--02875.jpg",
+            "nightSequence1--02876.jpg",
+            "nightSequence1--02877.jpg",
+            "nightSequence1--02878.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04691.jpg",
+            "nightSequence1--04692.jpg",
+            "nightSequence1--04693.jpg",
+            "nightSequence1--04694.jpg",
+            "nightSequence1--04695.jpg",
+            "nightSequence1--04696.jpg",
+            "nightSequence1--04697.jpg",
+            "nightSequence1--04698.jpg",
+            "nightSequence1--04699.jpg",
+            "nightSequence1--04700.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01412.jpg",
+            "nightSequence1--01413.jpg",
+            "nightSequence1--01414.jpg",
+            "nightSequence1--01415.jpg",
+            "nightSequence1--01416.jpg",
+            "nightSequence1--01417.jpg",
+            "nightSequence1--01418.jpg",
+            "nightSequence1--01419.jpg",
+            "nightSequence1--01420.jpg",
+            "nightSequence1--01421.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03925.jpg",
+            "nightSequence1--03926.jpg",
+            "nightSequence1--03927.jpg",
+            "nightSequence1--03928.jpg",
+            "nightSequence1--03929.jpg",
+            "nightSequence1--03930.jpg",
+            "nightSequence1--03931.jpg",
+            "nightSequence1--03932.jpg",
+            "nightSequence1--03933.jpg",
+            "nightSequence1--03934.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00932.jpg",
+            "nightSequence1--00933.jpg",
+            "nightSequence1--00934.jpg",
+            "nightSequence1--00935.jpg",
+            "nightSequence1--00936.jpg",
+            "nightSequence1--00937.jpg",
+            "nightSequence1--00938.jpg",
+            "nightSequence1--00939.jpg",
+            "nightSequence1--00940.jpg",
+            "nightSequence1--00941.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01242.jpg",
+            "nightSequence1--01243.jpg",
+            "nightSequence1--01244.jpg",
+            "nightSequence1--01245.jpg",
+            "nightSequence1--01246.jpg",
+            "nightSequence1--01247.jpg",
+            "nightSequence1--01248.jpg",
+            "nightSequence1--01249.jpg",
+            "nightSequence1--01250.jpg",
+            "nightSequence1--01251.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02789.jpg",
+            "nightSequence1--02790.jpg",
+            "nightSequence1--02791.jpg",
+            "nightSequence1--02792.jpg",
+            "nightSequence1--02793.jpg",
+            "nightSequence1--02794.jpg",
+            "nightSequence1--02795.jpg",
+            "nightSequence1--02796.jpg",
+            "nightSequence1--02797.jpg",
+            "nightSequence1--02798.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01723.jpg",
+            "nightSequence1--01724.jpg",
+            "nightSequence1--01725.jpg",
+            "nightSequence1--01726.jpg",
+            "nightSequence1--01727.jpg",
+            "nightSequence1--01728.jpg",
+            "nightSequence1--01729.jpg",
+            "nightSequence1--01730.jpg",
+            "nightSequence1--01731.jpg",
+            "nightSequence1--01732.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03039.jpg",
+            "nightSequence1--03040.jpg",
+            "nightSequence1--03041.jpg",
+            "nightSequence1--03042.jpg",
+            "nightSequence1--03043.jpg",
+            "nightSequence1--03044.jpg",
+            "nightSequence1--03045.jpg",
+            "nightSequence1--03046.jpg",
+            "nightSequence1--03047.jpg",
+            "nightSequence1--03048.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01212.jpg",
+            "nightSequence1--01213.jpg",
+            "nightSequence1--01214.jpg",
+            "nightSequence1--01215.jpg",
+            "nightSequence1--01216.jpg",
+            "nightSequence1--01217.jpg",
+            "nightSequence1--01218.jpg",
+            "nightSequence1--01219.jpg",
+            "nightSequence1--01220.jpg",
+            "nightSequence1--01221.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03475.jpg",
+            "nightSequence1--03476.jpg",
+            "nightSequence1--03477.jpg",
+            "nightSequence1--03478.jpg",
+            "nightSequence1--03479.jpg",
+            "nightSequence1--03480.jpg",
+            "nightSequence1--03481.jpg",
+            "nightSequence1--03482.jpg",
+            "nightSequence1--03483.jpg",
+            "nightSequence1--03484.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00394.jpg",
+            "nightSequence1--00395.jpg",
+            "nightSequence1--00396.jpg",
+            "nightSequence1--00397.jpg",
+            "nightSequence1--00398.jpg",
+            "nightSequence1--00399.jpg",
+            "nightSequence1--00400.jpg",
+            "nightSequence1--00401.jpg",
+            "nightSequence1--00402.jpg",
+            "nightSequence1--00403.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01452.jpg",
+            "nightSequence1--01453.jpg",
+            "nightSequence1--01454.jpg",
+            "nightSequence1--01455.jpg",
+            "nightSequence1--01456.jpg",
+            "nightSequence1--01457.jpg",
+            "nightSequence1--01458.jpg",
+            "nightSequence1--01459.jpg",
+            "nightSequence1--01460.jpg",
+            "nightSequence1--01461.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01152.jpg",
+            "nightSequence1--01153.jpg",
+            "nightSequence1--01154.jpg",
+            "nightSequence1--01155.jpg",
+            "nightSequence1--01156.jpg",
+            "nightSequence1--01157.jpg",
+            "nightSequence1--01158.jpg",
+            "nightSequence1--01159.jpg",
+            "nightSequence1--01160.jpg",
+            "nightSequence1--01161.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03009.jpg",
+            "nightSequence1--03010.jpg",
+            "nightSequence1--03011.jpg",
+            "nightSequence1--03012.jpg",
+            "nightSequence1--03013.jpg",
+            "nightSequence1--03014.jpg",
+            "nightSequence1--03015.jpg",
+            "nightSequence1--03016.jpg",
+            "nightSequence1--03017.jpg",
+            "nightSequence1--03018.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00440.jpg",
+            "nightSequence1--00441.jpg",
+            "nightSequence1--00442.jpg",
+            "nightSequence1--00443.jpg",
+            "nightSequence1--00444.jpg",
+            "nightSequence1--00445.jpg",
+            "nightSequence1--00446.jpg",
+            "nightSequence1--00447.jpg",
+            "nightSequence1--00448.jpg",
+            "nightSequence1--00449.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02959.jpg",
+            "nightSequence1--02960.jpg",
+            "nightSequence1--02961.jpg",
+            "nightSequence1--02962.jpg",
+            "nightSequence1--02963.jpg",
+            "nightSequence1--02964.jpg",
+            "nightSequence1--02965.jpg",
+            "nightSequence1--02966.jpg",
+            "nightSequence1--02967.jpg",
+            "nightSequence1--02968.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03495.jpg",
+            "nightSequence1--03496.jpg",
+            "nightSequence1--03497.jpg",
+            "nightSequence1--03498.jpg",
+            "nightSequence1--03499.jpg",
+            "nightSequence1--03500.jpg",
+            "nightSequence1--03501.jpg",
+            "nightSequence1--03502.jpg",
+            "nightSequence1--03503.jpg",
+            "nightSequence1--03504.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02949.jpg",
+            "nightSequence1--02950.jpg",
+            "nightSequence1--02951.jpg",
+            "nightSequence1--02952.jpg",
+            "nightSequence1--02953.jpg",
+            "nightSequence1--02954.jpg",
+            "nightSequence1--02955.jpg",
+            "nightSequence1--02956.jpg",
+            "nightSequence1--02957.jpg",
+            "nightSequence1--02958.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02819.jpg",
+            "nightSequence1--02820.jpg",
+            "nightSequence1--02821.jpg",
+            "nightSequence1--02822.jpg",
+            "nightSequence1--02823.jpg",
+            "nightSequence1--02824.jpg",
+            "nightSequence1--02825.jpg",
+            "nightSequence1--02826.jpg",
+            "nightSequence1--02827.jpg",
+            "nightSequence1--02828.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03149.jpg",
+            "nightSequence1--03150.jpg",
+            "nightSequence1--03151.jpg",
+            "nightSequence1--03152.jpg",
+            "nightSequence1--03153.jpg",
+            "nightSequence1--03154.jpg",
+            "nightSequence1--03155.jpg",
+            "nightSequence1--03156.jpg",
+            "nightSequence1--03157.jpg",
+            "nightSequence1--03158.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01572.jpg",
+            "nightSequence1--01573.jpg",
+            "nightSequence1--01574.jpg",
+            "nightSequence1--01575.jpg",
+            "nightSequence1--01576.jpg",
+            "nightSequence1--01577.jpg",
+            "nightSequence1--01578.jpg",
+            "nightSequence1--01579.jpg",
+            "nightSequence1--01580.jpg",
+            "nightSequence1--01581.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03059.jpg",
+            "nightSequence1--03060.jpg",
+            "nightSequence1--03061.jpg",
+            "nightSequence1--03062.jpg",
+            "nightSequence1--03063.jpg",
+            "nightSequence1--03064.jpg",
+            "nightSequence1--03065.jpg",
+            "nightSequence1--03066.jpg",
+            "nightSequence1--03067.jpg",
+            "nightSequence1--03068.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01202.jpg",
+            "nightSequence1--01203.jpg",
+            "nightSequence1--01204.jpg",
+            "nightSequence1--01205.jpg",
+            "nightSequence1--01206.jpg",
+            "nightSequence1--01207.jpg",
+            "nightSequence1--01208.jpg",
+            "nightSequence1--01209.jpg",
+            "nightSequence1--01210.jpg",
+            "nightSequence1--01211.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02739.jpg",
+            "nightSequence1--02740.jpg",
+            "nightSequence1--02741.jpg",
+            "nightSequence1--02742.jpg",
+            "nightSequence1--02743.jpg",
+            "nightSequence1--02744.jpg",
+            "nightSequence1--02745.jpg",
+            "nightSequence1--02746.jpg",
+            "nightSequence1--02747.jpg",
+            "nightSequence1--02748.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02749.jpg",
+            "nightSequence1--02750.jpg",
+            "nightSequence1--02751.jpg",
+            "nightSequence1--02752.jpg",
+            "nightSequence1--02753.jpg",
+            "nightSequence1--02754.jpg",
+            "nightSequence1--02755.jpg",
+            "nightSequence1--02756.jpg",
+            "nightSequence1--02757.jpg",
+            "nightSequence1--02758.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02919.jpg",
+            "nightSequence1--02920.jpg",
+            "nightSequence1--02921.jpg",
+            "nightSequence1--02922.jpg",
+            "nightSequence1--02923.jpg",
+            "nightSequence1--02924.jpg",
+            "nightSequence1--02925.jpg",
+            "nightSequence1--02926.jpg",
+            "nightSequence1--02927.jpg",
+            "nightSequence1--02928.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01823.jpg",
+            "nightSequence1--01824.jpg",
+            "nightSequence1--01825.jpg",
+            "nightSequence1--01826.jpg",
+            "nightSequence1--01827.jpg",
+            "nightSequence1--01828.jpg",
+            "nightSequence1--01829.jpg",
+            "nightSequence1--01830.jpg",
+            "nightSequence1--01831.jpg",
+            "nightSequence1--01832.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00384.jpg",
+            "nightSequence1--00385.jpg",
+            "nightSequence1--00386.jpg",
+            "nightSequence1--00387.jpg",
+            "nightSequence1--00388.jpg",
+            "nightSequence1--00389.jpg",
+            "nightSequence1--00390.jpg",
+            "nightSequence1--00391.jpg",
+            "nightSequence1--00392.jpg",
+            "nightSequence1--00393.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00404.jpg",
+            "nightSequence1--00405.jpg",
+            "nightSequence1--00406.jpg",
+            "nightSequence1--00407.jpg",
+            "nightSequence1--00408.jpg",
+            "nightSequence1--00409.jpg",
+            "nightSequence1--00410.jpg",
+            "nightSequence1--00411.jpg",
+            "nightSequence1--00412.jpg",
+            "nightSequence1--00413.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01562.jpg",
+            "nightSequence1--01563.jpg",
+            "nightSequence1--01564.jpg",
+            "nightSequence1--01565.jpg",
+            "nightSequence1--01566.jpg",
+            "nightSequence1--01567.jpg",
+            "nightSequence1--01568.jpg",
+            "nightSequence1--01569.jpg",
+            "nightSequence1--01570.jpg",
+            "nightSequence1--01571.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03179.jpg",
+            "nightSequence1--03180.jpg",
+            "nightSequence1--03181.jpg",
+            "nightSequence1--03182.jpg",
+            "nightSequence1--03183.jpg",
+            "nightSequence1--03184.jpg",
+            "nightSequence1--03185.jpg",
+            "nightSequence1--03186.jpg",
+            "nightSequence1--03187.jpg",
+            "nightSequence1--03188.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01993.jpg",
+            "nightSequence1--01994.jpg",
+            "nightSequence1--01995.jpg",
+            "nightSequence1--01996.jpg",
+            "nightSequence1--01997.jpg",
+            "nightSequence1--01998.jpg",
+            "nightSequence1--01999.jpg",
+            "nightSequence1--02000.jpg",
+            "nightSequence1--02001.jpg",
+            "nightSequence1--02002.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01142.jpg",
+            "nightSequence1--01143.jpg",
+            "nightSequence1--01144.jpg",
+            "nightSequence1--01145.jpg",
+            "nightSequence1--01146.jpg",
+            "nightSequence1--01147.jpg",
+            "nightSequence1--01148.jpg",
+            "nightSequence1--01149.jpg",
+            "nightSequence1--01150.jpg",
+            "nightSequence1--01151.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04369.jpg",
+            "nightSequence1--04370.jpg",
+            "nightSequence1--04371.jpg",
+            "nightSequence1--04372.jpg",
+            "nightSequence1--04373.jpg",
+            "nightSequence1--04374.jpg",
+            "nightSequence1--04375.jpg",
+            "nightSequence1--04376.jpg",
+            "nightSequence1--04377.jpg",
+            "nightSequence1--04378.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03445.jpg",
+            "nightSequence1--03446.jpg",
+            "nightSequence1--03447.jpg",
+            "nightSequence1--03448.jpg",
+            "nightSequence1--03449.jpg",
+            "nightSequence1--03450.jpg",
+            "nightSequence1--03451.jpg",
+            "nightSequence1--03452.jpg",
+            "nightSequence1--03453.jpg",
+            "nightSequence1--03454.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01072.jpg",
+            "nightSequence1--01073.jpg",
+            "nightSequence1--01074.jpg",
+            "nightSequence1--01075.jpg",
+            "nightSequence1--01076.jpg",
+            "nightSequence1--01077.jpg",
+            "nightSequence1--01078.jpg",
+            "nightSequence1--01079.jpg",
+            "nightSequence1--01080.jpg",
+            "nightSequence1--01081.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04389.jpg",
+            "nightSequence1--04390.jpg",
+            "nightSequence1--04391.jpg",
+            "nightSequence1--04392.jpg",
+            "nightSequence1--04393.jpg",
+            "nightSequence1--04394.jpg",
+            "nightSequence1--04395.jpg",
+            "nightSequence1--04396.jpg",
+            "nightSequence1--04397.jpg",
+            "nightSequence1--04398.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01062.jpg",
+            "nightSequence1--01063.jpg",
+            "nightSequence1--01064.jpg",
+            "nightSequence1--01065.jpg",
+            "nightSequence1--01066.jpg",
+            "nightSequence1--01067.jpg",
+            "nightSequence1--01068.jpg",
+            "nightSequence1--01069.jpg",
+            "nightSequence1--01070.jpg",
+            "nightSequence1--01071.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01112.jpg",
+            "nightSequence1--01113.jpg",
+            "nightSequence1--01114.jpg",
+            "nightSequence1--01115.jpg",
+            "nightSequence1--01116.jpg",
+            "nightSequence1--01117.jpg",
+            "nightSequence1--01118.jpg",
+            "nightSequence1--01119.jpg",
+            "nightSequence1--01120.jpg",
+            "nightSequence1--01121.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00490.jpg",
+            "nightSequence1--00491.jpg",
+            "nightSequence1--00492.jpg",
+            "nightSequence1--00493.jpg",
+            "nightSequence1--00494.jpg",
+            "nightSequence1--00495.jpg",
+            "nightSequence1--00496.jpg",
+            "nightSequence1--00497.jpg",
+            "nightSequence1--00498.jpg",
+            "nightSequence1--00499.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03815.jpg",
+            "nightSequence1--03816.jpg",
+            "nightSequence1--03817.jpg",
+            "nightSequence1--03818.jpg",
+            "nightSequence1--03819.jpg",
+            "nightSequence1--03820.jpg",
+            "nightSequence1--03821.jpg",
+            "nightSequence1--03822.jpg",
+            "nightSequence1--03823.jpg",
+            "nightSequence1--03824.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03435.jpg",
+            "nightSequence1--03436.jpg",
+            "nightSequence1--03437.jpg",
+            "nightSequence1--03438.jpg",
+            "nightSequence1--03439.jpg",
+            "nightSequence1--03440.jpg",
+            "nightSequence1--03441.jpg",
+            "nightSequence1--03442.jpg",
+            "nightSequence1--03443.jpg",
+            "nightSequence1--03444.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03129.jpg",
+            "nightSequence1--03130.jpg",
+            "nightSequence1--03131.jpg",
+            "nightSequence1--03132.jpg",
+            "nightSequence1--03133.jpg",
+            "nightSequence1--03134.jpg",
+            "nightSequence1--03135.jpg",
+            "nightSequence1--03136.jpg",
+            "nightSequence1--03137.jpg",
+            "nightSequence1--03138.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01292.jpg",
+            "nightSequence1--01293.jpg",
+            "nightSequence1--01294.jpg",
+            "nightSequence1--01295.jpg",
+            "nightSequence1--01296.jpg",
+            "nightSequence1--01297.jpg",
+            "nightSequence1--01298.jpg",
+            "nightSequence1--01299.jpg",
+            "nightSequence1--01300.jpg",
+            "nightSequence1--01301.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01863.jpg",
+            "nightSequence1--01864.jpg",
+            "nightSequence1--01865.jpg",
+            "nightSequence1--01866.jpg",
+            "nightSequence1--01867.jpg",
+            "nightSequence1--01868.jpg",
+            "nightSequence1--01869.jpg",
+            "nightSequence1--01870.jpg",
+            "nightSequence1--01871.jpg",
+            "nightSequence1--01872.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02829.jpg",
+            "nightSequence1--02830.jpg",
+            "nightSequence1--02831.jpg",
+            "nightSequence1--02832.jpg",
+            "nightSequence1--02833.jpg",
+            "nightSequence1--02834.jpg",
+            "nightSequence1--02835.jpg",
+            "nightSequence1--02836.jpg",
+            "nightSequence1--02837.jpg",
+            "nightSequence1--02838.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03965.jpg",
+            "nightSequence1--03966.jpg",
+            "nightSequence1--03967.jpg",
+            "nightSequence1--03968.jpg",
+            "nightSequence1--03969.jpg",
+            "nightSequence1--03970.jpg",
+            "nightSequence1--03971.jpg",
+            "nightSequence1--03972.jpg",
+            "nightSequence1--03973.jpg",
+            "nightSequence1--03974.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01232.jpg",
+            "nightSequence1--01233.jpg",
+            "nightSequence1--01234.jpg",
+            "nightSequence1--01235.jpg",
+            "nightSequence1--01236.jpg",
+            "nightSequence1--01237.jpg",
+            "nightSequence1--01238.jpg",
+            "nightSequence1--01239.jpg",
+            "nightSequence1--01240.jpg",
+            "nightSequence1--01241.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03955.jpg",
+            "nightSequence1--03956.jpg",
+            "nightSequence1--03957.jpg",
+            "nightSequence1--03958.jpg",
+            "nightSequence1--03959.jpg",
+            "nightSequence1--03960.jpg",
+            "nightSequence1--03961.jpg",
+            "nightSequence1--03962.jpg",
+            "nightSequence1--03963.jpg",
+            "nightSequence1--03964.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03835.jpg",
+            "nightSequence1--03836.jpg",
+            "nightSequence1--03837.jpg",
+            "nightSequence1--03838.jpg",
+            "nightSequence1--03839.jpg",
+            "nightSequence1--03840.jpg",
+            "nightSequence1--03841.jpg",
+            "nightSequence1--03842.jpg",
+            "nightSequence1--03843.jpg",
+            "nightSequence1--03844.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00992.jpg",
+            "nightSequence1--00993.jpg",
+            "nightSequence1--00994.jpg",
+            "nightSequence1--00995.jpg",
+            "nightSequence1--00996.jpg",
+            "nightSequence1--00997.jpg",
+            "nightSequence1--00998.jpg",
+            "nightSequence1--00999.jpg",
+            "nightSequence1--01000.jpg",
+            "nightSequence1--01001.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00480.jpg",
+            "nightSequence1--00481.jpg",
+            "nightSequence1--00482.jpg",
+            "nightSequence1--00483.jpg",
+            "nightSequence1--00484.jpg",
+            "nightSequence1--00485.jpg",
+            "nightSequence1--00486.jpg",
+            "nightSequence1--00487.jpg",
+            "nightSequence1--00488.jpg",
+            "nightSequence1--00489.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01653.jpg",
+            "nightSequence1--01654.jpg",
+            "nightSequence1--01655.jpg",
+            "nightSequence1--01656.jpg",
+            "nightSequence1--01657.jpg",
+            "nightSequence1--01658.jpg",
+            "nightSequence1--01659.jpg",
+            "nightSequence1--01660.jpg",
+            "nightSequence1--01661.jpg",
+            "nightSequence1--01662.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01903.jpg",
+            "nightSequence1--01904.jpg",
+            "nightSequence1--01905.jpg",
+            "nightSequence1--01906.jpg",
+            "nightSequence1--01907.jpg",
+            "nightSequence1--01908.jpg",
+            "nightSequence1--01909.jpg",
+            "nightSequence1--01910.jpg",
+            "nightSequence1--01911.jpg",
+            "nightSequence1--01912.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03945.jpg",
+            "nightSequence1--03946.jpg",
+            "nightSequence1--03947.jpg",
+            "nightSequence1--03948.jpg",
+            "nightSequence1--03949.jpg",
+            "nightSequence1--03950.jpg",
+            "nightSequence1--03951.jpg",
+            "nightSequence1--03952.jpg",
+            "nightSequence1--03953.jpg",
+            "nightSequence1--03954.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01032.jpg",
+            "nightSequence1--01033.jpg",
+            "nightSequence1--01034.jpg",
+            "nightSequence1--01035.jpg",
+            "nightSequence1--01036.jpg",
+            "nightSequence1--01037.jpg",
+            "nightSequence1--01038.jpg",
+            "nightSequence1--01039.jpg",
+            "nightSequence1--01040.jpg",
+            "nightSequence1--01041.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01362.jpg",
+            "nightSequence1--01363.jpg",
+            "nightSequence1--01364.jpg",
+            "nightSequence1--01365.jpg",
+            "nightSequence1--01366.jpg",
+            "nightSequence1--01367.jpg",
+            "nightSequence1--01368.jpg",
+            "nightSequence1--01369.jpg",
+            "nightSequence1--01370.jpg",
+            "nightSequence1--01371.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04671.jpg",
+            "nightSequence1--04672.jpg",
+            "nightSequence1--04673.jpg",
+            "nightSequence1--04674.jpg",
+            "nightSequence1--04675.jpg",
+            "nightSequence1--04676.jpg",
+            "nightSequence1--04677.jpg",
+            "nightSequence1--04678.jpg",
+            "nightSequence1--04679.jpg",
+            "nightSequence1--04680.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03855.jpg",
+            "nightSequence1--03856.jpg",
+            "nightSequence1--03857.jpg",
+            "nightSequence1--03858.jpg",
+            "nightSequence1--03859.jpg",
+            "nightSequence1--03860.jpg",
+            "nightSequence1--03861.jpg",
+            "nightSequence1--03862.jpg",
+            "nightSequence1--03863.jpg",
+            "nightSequence1--03864.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00530.jpg",
+            "nightSequence1--00531.jpg",
+            "nightSequence1--00532.jpg",
+            "nightSequence1--00533.jpg",
+            "nightSequence1--00534.jpg",
+            "nightSequence1--00535.jpg",
+            "nightSequence1--00536.jpg",
+            "nightSequence1--00537.jpg",
+            "nightSequence1--00538.jpg",
+            "nightSequence1--00539.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03505.jpg",
+            "nightSequence1--03506.jpg",
+            "nightSequence1--03507.jpg",
+            "nightSequence1--03508.jpg",
+            "nightSequence1--03509.jpg",
+            "nightSequence1--03510.jpg",
+            "nightSequence1--03511.jpg",
+            "nightSequence1--03512.jpg",
+            "nightSequence1--03513.jpg",
+            "nightSequence1--03514.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01492.jpg",
+            "nightSequence1--01493.jpg",
+            "nightSequence1--01494.jpg",
+            "nightSequence1--01495.jpg",
+            "nightSequence1--01496.jpg",
+            "nightSequence1--01497.jpg",
+            "nightSequence1--01498.jpg",
+            "nightSequence1--01499.jpg",
+            "nightSequence1--01500.jpg",
+            "nightSequence1--01501.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01703.jpg",
+            "nightSequence1--01704.jpg",
+            "nightSequence1--01705.jpg",
+            "nightSequence1--01706.jpg",
+            "nightSequence1--01707.jpg",
+            "nightSequence1--01708.jpg",
+            "nightSequence1--01709.jpg",
+            "nightSequence1--01710.jpg",
+            "nightSequence1--01711.jpg",
+            "nightSequence1--01712.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01693.jpg",
+            "nightSequence1--01694.jpg",
+            "nightSequence1--01695.jpg",
+            "nightSequence1--01696.jpg",
+            "nightSequence1--01697.jpg",
+            "nightSequence1--01698.jpg",
+            "nightSequence1--01699.jpg",
+            "nightSequence1--01700.jpg",
+            "nightSequence1--01701.jpg",
+            "nightSequence1--01702.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00414.jpg",
+            "nightSequence1--00415.jpg",
+            "nightSequence1--00416.jpg",
+            "nightSequence1--00417.jpg",
+            "nightSequence1--00418.jpg",
+            "nightSequence1--00419.jpg",
+            "nightSequence1--00420.jpg",
+            "nightSequence1--00421.jpg",
+            "nightSequence1--00422.jpg",
+            "nightSequence1--00423.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01532.jpg",
+            "nightSequence1--01533.jpg",
+            "nightSequence1--01534.jpg",
+            "nightSequence1--01535.jpg",
+            "nightSequence1--01536.jpg",
+            "nightSequence1--01537.jpg",
+            "nightSequence1--01538.jpg",
+            "nightSequence1--01539.jpg",
+            "nightSequence1--01540.jpg",
+            "nightSequence1--01541.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03905.jpg",
+            "nightSequence1--03906.jpg",
+            "nightSequence1--03907.jpg",
+            "nightSequence1--03908.jpg",
+            "nightSequence1--03909.jpg",
+            "nightSequence1--03910.jpg",
+            "nightSequence1--03911.jpg",
+            "nightSequence1--03912.jpg",
+            "nightSequence1--03913.jpg",
+            "nightSequence1--03914.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01853.jpg",
+            "nightSequence1--01854.jpg",
+            "nightSequence1--01855.jpg",
+            "nightSequence1--01856.jpg",
+            "nightSequence1--01857.jpg",
+            "nightSequence1--01858.jpg",
+            "nightSequence1--01859.jpg",
+            "nightSequence1--01860.jpg",
+            "nightSequence1--01861.jpg",
+            "nightSequence1--01862.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02799.jpg",
+            "nightSequence1--02800.jpg",
+            "nightSequence1--02801.jpg",
+            "nightSequence1--02802.jpg",
+            "nightSequence1--02803.jpg",
+            "nightSequence1--02804.jpg",
+            "nightSequence1--02805.jpg",
+            "nightSequence1--02806.jpg",
+            "nightSequence1--02807.jpg",
+            "nightSequence1--02808.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01122.jpg",
+            "nightSequence1--01123.jpg",
+            "nightSequence1--01124.jpg",
+            "nightSequence1--01125.jpg",
+            "nightSequence1--01126.jpg",
+            "nightSequence1--01127.jpg",
+            "nightSequence1--01128.jpg",
+            "nightSequence1--01129.jpg",
+            "nightSequence1--01130.jpg",
+            "nightSequence1--01131.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01763.jpg",
+            "nightSequence1--01764.jpg",
+            "nightSequence1--01765.jpg",
+            "nightSequence1--01766.jpg",
+            "nightSequence1--01767.jpg",
+            "nightSequence1--01768.jpg",
+            "nightSequence1--01769.jpg",
+            "nightSequence1--01770.jpg",
+            "nightSequence1--01771.jpg",
+            "nightSequence1--01772.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04439.jpg",
+            "nightSequence1--04440.jpg",
+            "nightSequence1--04441.jpg",
+            "nightSequence1--04442.jpg",
+            "nightSequence1--04443.jpg",
+            "nightSequence1--04444.jpg",
+            "nightSequence1--04445.jpg",
+            "nightSequence1--04446.jpg",
+            "nightSequence1--04447.jpg",
+            "nightSequence1--04448.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01673.jpg",
+            "nightSequence1--01674.jpg",
+            "nightSequence1--01675.jpg",
+            "nightSequence1--01676.jpg",
+            "nightSequence1--01677.jpg",
+            "nightSequence1--01678.jpg",
+            "nightSequence1--01679.jpg",
+            "nightSequence1--01680.jpg",
+            "nightSequence1--01681.jpg",
+            "nightSequence1--01682.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03019.jpg",
+            "nightSequence1--03020.jpg",
+            "nightSequence1--03021.jpg",
+            "nightSequence1--03022.jpg",
+            "nightSequence1--03023.jpg",
+            "nightSequence1--03024.jpg",
+            "nightSequence1--03025.jpg",
+            "nightSequence1--03026.jpg",
+            "nightSequence1--03027.jpg",
+            "nightSequence1--03028.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01282.jpg",
+            "nightSequence1--01283.jpg",
+            "nightSequence1--01284.jpg",
+            "nightSequence1--01285.jpg",
+            "nightSequence1--01286.jpg",
+            "nightSequence1--01287.jpg",
+            "nightSequence1--01288.jpg",
+            "nightSequence1--01289.jpg",
+            "nightSequence1--01290.jpg",
+            "nightSequence1--01291.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01462.jpg",
+            "nightSequence1--01463.jpg",
+            "nightSequence1--01464.jpg",
+            "nightSequence1--01465.jpg",
+            "nightSequence1--01466.jpg",
+            "nightSequence1--01467.jpg",
+            "nightSequence1--01468.jpg",
+            "nightSequence1--01469.jpg",
+            "nightSequence1--01470.jpg",
+            "nightSequence1--01471.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03805.jpg",
+            "nightSequence1--03806.jpg",
+            "nightSequence1--03807.jpg",
+            "nightSequence1--03808.jpg",
+            "nightSequence1--03809.jpg",
+            "nightSequence1--03810.jpg",
+            "nightSequence1--03811.jpg",
+            "nightSequence1--03812.jpg",
+            "nightSequence1--03813.jpg",
+            "nightSequence1--03814.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03189.jpg",
+            "nightSequence1--03190.jpg",
+            "nightSequence1--03191.jpg",
+            "nightSequence1--03192.jpg",
+            "nightSequence1--03193.jpg",
+            "nightSequence1--03194.jpg",
+            "nightSequence1--03195.jpg",
+            "nightSequence1--03196.jpg",
+            "nightSequence1--03197.jpg",
+            "nightSequence1--03198.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01933.jpg",
+            "nightSequence1--01934.jpg",
+            "nightSequence1--01935.jpg",
+            "nightSequence1--01936.jpg",
+            "nightSequence1--01937.jpg",
+            "nightSequence1--01938.jpg",
+            "nightSequence1--01939.jpg",
+            "nightSequence1--01940.jpg",
+            "nightSequence1--01941.jpg",
+            "nightSequence1--01942.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03715.jpg",
+            "nightSequence1--03716.jpg",
+            "nightSequence1--03717.jpg",
+            "nightSequence1--03718.jpg",
+            "nightSequence1--03719.jpg",
+            "nightSequence1--03720.jpg",
+            "nightSequence1--03721.jpg",
+            "nightSequence1--03722.jpg",
+            "nightSequence1--03723.jpg",
+            "nightSequence1--03724.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02729.jpg",
+            "nightSequence1--02730.jpg",
+            "nightSequence1--02731.jpg",
+            "nightSequence1--02732.jpg",
+            "nightSequence1--02733.jpg",
+            "nightSequence1--02734.jpg",
+            "nightSequence1--02735.jpg",
+            "nightSequence1--02736.jpg",
+            "nightSequence1--02737.jpg",
+            "nightSequence1--02738.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03485.jpg",
+            "nightSequence1--03486.jpg",
+            "nightSequence1--03487.jpg",
+            "nightSequence1--03488.jpg",
+            "nightSequence1--03489.jpg",
+            "nightSequence1--03490.jpg",
+            "nightSequence1--03491.jpg",
+            "nightSequence1--03492.jpg",
+            "nightSequence1--03493.jpg",
+            "nightSequence1--03494.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03099.jpg",
+            "nightSequence1--03100.jpg",
+            "nightSequence1--03101.jpg",
+            "nightSequence1--03102.jpg",
+            "nightSequence1--03103.jpg",
+            "nightSequence1--03104.jpg",
+            "nightSequence1--03105.jpg",
+            "nightSequence1--03106.jpg",
+            "nightSequence1--03107.jpg",
+            "nightSequence1--03108.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01472.jpg",
+            "nightSequence1--01473.jpg",
+            "nightSequence1--01474.jpg",
+            "nightSequence1--01475.jpg",
+            "nightSequence1--01476.jpg",
+            "nightSequence1--01477.jpg",
+            "nightSequence1--01478.jpg",
+            "nightSequence1--01479.jpg",
+            "nightSequence1--01480.jpg",
+            "nightSequence1--01481.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01262.jpg",
+            "nightSequence1--01263.jpg",
+            "nightSequence1--01264.jpg",
+            "nightSequence1--01265.jpg",
+            "nightSequence1--01266.jpg",
+            "nightSequence1--01267.jpg",
+            "nightSequence1--01268.jpg",
+            "nightSequence1--01269.jpg",
+            "nightSequence1--01270.jpg",
+            "nightSequence1--01271.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01442.jpg",
+            "nightSequence1--01443.jpg",
+            "nightSequence1--01444.jpg",
+            "nightSequence1--01445.jpg",
+            "nightSequence1--01446.jpg",
+            "nightSequence1--01447.jpg",
+            "nightSequence1--01448.jpg",
+            "nightSequence1--01449.jpg",
+            "nightSequence1--01450.jpg",
+            "nightSequence1--01451.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02033.jpg",
+            "nightSequence1--02034.jpg",
+            "nightSequence1--02035.jpg",
+            "nightSequence1--02036.jpg",
+            "nightSequence1--02037.jpg",
+            "nightSequence1--02038.jpg",
+            "nightSequence1--02039.jpg",
+            "nightSequence1--02040.jpg",
+            "nightSequence1--02041.jpg",
+            "nightSequence1--02042.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02769.jpg",
+            "nightSequence1--02770.jpg",
+            "nightSequence1--02771.jpg",
+            "nightSequence1--02772.jpg",
+            "nightSequence1--02773.jpg",
+            "nightSequence1--02774.jpg",
+            "nightSequence1--02775.jpg",
+            "nightSequence1--02776.jpg",
+            "nightSequence1--02777.jpg",
+            "nightSequence1--02778.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01963.jpg",
+            "nightSequence1--01964.jpg",
+            "nightSequence1--01965.jpg",
+            "nightSequence1--01966.jpg",
+            "nightSequence1--01967.jpg",
+            "nightSequence1--01968.jpg",
+            "nightSequence1--01969.jpg",
+            "nightSequence1--01970.jpg",
+            "nightSequence1--01971.jpg",
+            "nightSequence1--01972.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04681.jpg",
+            "nightSequence1--04682.jpg",
+            "nightSequence1--04683.jpg",
+            "nightSequence1--04684.jpg",
+            "nightSequence1--04685.jpg",
+            "nightSequence1--04686.jpg",
+            "nightSequence1--04687.jpg",
+            "nightSequence1--04688.jpg",
+            "nightSequence1--04689.jpg",
+            "nightSequence1--04690.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01683.jpg",
+            "nightSequence1--01684.jpg",
+            "nightSequence1--01685.jpg",
+            "nightSequence1--01686.jpg",
+            "nightSequence1--01687.jpg",
+            "nightSequence1--01688.jpg",
+            "nightSequence1--01689.jpg",
+            "nightSequence1--01690.jpg",
+            "nightSequence1--01691.jpg",
+            "nightSequence1--01692.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00470.jpg",
+            "nightSequence1--00471.jpg",
+            "nightSequence1--00472.jpg",
+            "nightSequence1--00473.jpg",
+            "nightSequence1--00474.jpg",
+            "nightSequence1--00475.jpg",
+            "nightSequence1--00476.jpg",
+            "nightSequence1--00477.jpg",
+            "nightSequence1--00478.jpg",
+            "nightSequence1--00479.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03705.jpg",
+            "nightSequence1--03706.jpg",
+            "nightSequence1--03707.jpg",
+            "nightSequence1--03708.jpg",
+            "nightSequence1--03709.jpg",
+            "nightSequence1--03710.jpg",
+            "nightSequence1--03711.jpg",
+            "nightSequence1--03712.jpg",
+            "nightSequence1--03713.jpg",
+            "nightSequence1--03714.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01833.jpg",
+            "nightSequence1--01834.jpg",
+            "nightSequence1--01835.jpg",
+            "nightSequence1--01836.jpg",
+            "nightSequence1--01837.jpg",
+            "nightSequence1--01838.jpg",
+            "nightSequence1--01839.jpg",
+            "nightSequence1--01840.jpg",
+            "nightSequence1--01841.jpg",
+            "nightSequence1--01842.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01813.jpg",
+            "nightSequence1--01814.jpg",
+            "nightSequence1--01815.jpg",
+            "nightSequence1--01816.jpg",
+            "nightSequence1--01817.jpg",
+            "nightSequence1--01818.jpg",
+            "nightSequence1--01819.jpg",
+            "nightSequence1--01820.jpg",
+            "nightSequence1--01821.jpg",
+            "nightSequence1--01822.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02879.jpg",
+            "nightSequence1--02880.jpg",
+            "nightSequence1--02881.jpg",
+            "nightSequence1--02882.jpg",
+            "nightSequence1--02883.jpg",
+            "nightSequence1--02884.jpg",
+            "nightSequence1--02885.jpg",
+            "nightSequence1--02886.jpg",
+            "nightSequence1--02887.jpg",
+            "nightSequence1--02888.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02043.jpg",
+            "nightSequence1--02044.jpg",
+            "nightSequence1--02045.jpg",
+            "nightSequence1--02046.jpg",
+            "nightSequence1--02047.jpg",
+            "nightSequence1--02048.jpg",
+            "nightSequence1--02049.jpg",
+            "nightSequence1--02050.jpg",
+            "nightSequence1--02051.jpg",
+            "nightSequence1--02052.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01482.jpg",
+            "nightSequence1--01483.jpg",
+            "nightSequence1--01484.jpg",
+            "nightSequence1--01485.jpg",
+            "nightSequence1--01486.jpg",
+            "nightSequence1--01487.jpg",
+            "nightSequence1--01488.jpg",
+            "nightSequence1--01489.jpg",
+            "nightSequence1--01490.jpg",
+            "nightSequence1--01491.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01522.jpg",
+            "nightSequence1--01523.jpg",
+            "nightSequence1--01524.jpg",
+            "nightSequence1--01525.jpg",
+            "nightSequence1--01526.jpg",
+            "nightSequence1--01527.jpg",
+            "nightSequence1--01528.jpg",
+            "nightSequence1--01529.jpg",
+            "nightSequence1--01530.jpg",
+            "nightSequence1--01531.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03795.jpg",
+            "nightSequence1--03796.jpg",
+            "nightSequence1--03797.jpg",
+            "nightSequence1--03798.jpg",
+            "nightSequence1--03799.jpg",
+            "nightSequence1--03800.jpg",
+            "nightSequence1--03801.jpg",
+            "nightSequence1--03802.jpg",
+            "nightSequence1--03803.jpg",
+            "nightSequence1--03804.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01893.jpg",
+            "nightSequence1--01894.jpg",
+            "nightSequence1--01895.jpg",
+            "nightSequence1--01896.jpg",
+            "nightSequence1--01897.jpg",
+            "nightSequence1--01898.jpg",
+            "nightSequence1--01899.jpg",
+            "nightSequence1--01900.jpg",
+            "nightSequence1--01901.jpg",
+            "nightSequence1--01902.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02759.jpg",
+            "nightSequence1--02760.jpg",
+            "nightSequence1--02761.jpg",
+            "nightSequence1--02762.jpg",
+            "nightSequence1--02763.jpg",
+            "nightSequence1--02764.jpg",
+            "nightSequence1--02765.jpg",
+            "nightSequence1--02766.jpg",
+            "nightSequence1--02767.jpg",
+            "nightSequence1--02768.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03079.jpg",
+            "nightSequence1--03080.jpg",
+            "nightSequence1--03081.jpg",
+            "nightSequence1--03082.jpg",
+            "nightSequence1--03083.jpg",
+            "nightSequence1--03084.jpg",
+            "nightSequence1--03085.jpg",
+            "nightSequence1--03086.jpg",
+            "nightSequence1--03087.jpg",
+            "nightSequence1--03088.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04761.jpg",
+            "nightSequence1--04762.jpg",
+            "nightSequence1--04763.jpg",
+            "nightSequence1--04764.jpg",
+            "nightSequence1--04765.jpg",
+            "nightSequence1--04766.jpg",
+            "nightSequence1--04767.jpg",
+            "nightSequence1--04768.jpg",
+            "nightSequence1--04769.jpg",
+            "nightSequence1--04770.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02839.jpg",
+            "nightSequence1--02840.jpg",
+            "nightSequence1--02841.jpg",
+            "nightSequence1--02842.jpg",
+            "nightSequence1--02843.jpg",
+            "nightSequence1--02844.jpg",
+            "nightSequence1--02845.jpg",
+            "nightSequence1--02846.jpg",
+            "nightSequence1--02847.jpg",
+            "nightSequence1--02848.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01082.jpg",
+            "nightSequence1--01083.jpg",
+            "nightSequence1--01084.jpg",
+            "nightSequence1--01085.jpg",
+            "nightSequence1--01086.jpg",
+            "nightSequence1--01087.jpg",
+            "nightSequence1--01088.jpg",
+            "nightSequence1--01089.jpg",
+            "nightSequence1--01090.jpg",
+            "nightSequence1--01091.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01843.jpg",
+            "nightSequence1--01844.jpg",
+            "nightSequence1--01845.jpg",
+            "nightSequence1--01846.jpg",
+            "nightSequence1--01847.jpg",
+            "nightSequence1--01848.jpg",
+            "nightSequence1--01849.jpg",
+            "nightSequence1--01850.jpg",
+            "nightSequence1--01851.jpg",
+            "nightSequence1--01852.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02709.jpg",
+            "nightSequence1--02710.jpg",
+            "nightSequence1--02711.jpg",
+            "nightSequence1--02712.jpg",
+            "nightSequence1--02713.jpg",
+            "nightSequence1--02714.jpg",
+            "nightSequence1--02715.jpg",
+            "nightSequence1--02716.jpg",
+            "nightSequence1--02717.jpg",
+            "nightSequence1--02718.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04379.jpg",
+            "nightSequence1--04380.jpg",
+            "nightSequence1--04381.jpg",
+            "nightSequence1--04382.jpg",
+            "nightSequence1--04383.jpg",
+            "nightSequence1--04384.jpg",
+            "nightSequence1--04385.jpg",
+            "nightSequence1--04386.jpg",
+            "nightSequence1--04387.jpg",
+            "nightSequence1--04388.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01382.jpg",
+            "nightSequence1--01383.jpg",
+            "nightSequence1--01384.jpg",
+            "nightSequence1--01385.jpg",
+            "nightSequence1--01386.jpg",
+            "nightSequence1--01387.jpg",
+            "nightSequence1--01388.jpg",
+            "nightSequence1--01389.jpg",
+            "nightSequence1--01390.jpg",
+            "nightSequence1--01391.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01642.jpg",
+            "nightSequence1--01643.jpg",
+            "nightSequence1--01644.jpg",
+            "nightSequence1--01645.jpg",
+            "nightSequence1--01646.jpg",
+            "nightSequence1--01647.jpg",
+            "nightSequence1--01648.jpg",
+            "nightSequence1--01649.jpg",
+            "nightSequence1--01650.jpg",
+            "nightSequence1--01651.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03119.jpg",
+            "nightSequence1--03120.jpg",
+            "nightSequence1--03121.jpg",
+            "nightSequence1--03122.jpg",
+            "nightSequence1--03123.jpg",
+            "nightSequence1--03124.jpg",
+            "nightSequence1--03125.jpg",
+            "nightSequence1--03126.jpg",
+            "nightSequence1--03127.jpg",
+            "nightSequence1--03128.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03069.jpg",
+            "nightSequence1--03070.jpg",
+            "nightSequence1--03071.jpg",
+            "nightSequence1--03072.jpg",
+            "nightSequence1--03073.jpg",
+            "nightSequence1--03074.jpg",
+            "nightSequence1--03075.jpg",
+            "nightSequence1--03076.jpg",
+            "nightSequence1--03077.jpg",
+            "nightSequence1--03078.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01272.jpg",
+            "nightSequence1--01273.jpg",
+            "nightSequence1--01274.jpg",
+            "nightSequence1--01275.jpg",
+            "nightSequence1--01276.jpg",
+            "nightSequence1--01277.jpg",
+            "nightSequence1--01278.jpg",
+            "nightSequence1--01279.jpg",
+            "nightSequence1--01280.jpg",
+            "nightSequence1--01281.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01092.jpg",
+            "nightSequence1--01093.jpg",
+            "nightSequence1--01094.jpg",
+            "nightSequence1--01095.jpg",
+            "nightSequence1--01096.jpg",
+            "nightSequence1--01097.jpg",
+            "nightSequence1--01098.jpg",
+            "nightSequence1--01099.jpg",
+            "nightSequence1--01100.jpg",
+            "nightSequence1--01101.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02809.jpg",
+            "nightSequence1--02810.jpg",
+            "nightSequence1--02811.jpg",
+            "nightSequence1--02812.jpg",
+            "nightSequence1--02813.jpg",
+            "nightSequence1--02814.jpg",
+            "nightSequence1--02815.jpg",
+            "nightSequence1--02816.jpg",
+            "nightSequence1--02817.jpg",
+            "nightSequence1--02818.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04399.jpg",
+            "nightSequence1--04400.jpg",
+            "nightSequence1--04401.jpg",
+            "nightSequence1--04402.jpg",
+            "nightSequence1--04403.jpg",
+            "nightSequence1--04404.jpg",
+            "nightSequence1--04405.jpg",
+            "nightSequence1--04406.jpg",
+            "nightSequence1--04407.jpg",
+            "nightSequence1--04408.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02979.jpg",
+            "nightSequence1--02980.jpg",
+            "nightSequence1--02981.jpg",
+            "nightSequence1--02982.jpg",
+            "nightSequence1--02983.jpg",
+            "nightSequence1--02984.jpg",
+            "nightSequence1--02985.jpg",
+            "nightSequence1--02986.jpg",
+            "nightSequence1--02987.jpg",
+            "nightSequence1--02988.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03765.jpg",
+            "nightSequence1--03766.jpg",
+            "nightSequence1--03767.jpg",
+            "nightSequence1--03768.jpg",
+            "nightSequence1--03769.jpg",
+            "nightSequence1--03770.jpg",
+            "nightSequence1--03771.jpg",
+            "nightSequence1--03772.jpg",
+            "nightSequence1--03773.jpg",
+            "nightSequence1--03774.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01873.jpg",
+            "nightSequence1--01874.jpg",
+            "nightSequence1--01875.jpg",
+            "nightSequence1--01876.jpg",
+            "nightSequence1--01877.jpg",
+            "nightSequence1--01878.jpg",
+            "nightSequence1--01879.jpg",
+            "nightSequence1--01880.jpg",
+            "nightSequence1--01881.jpg",
+            "nightSequence1--01882.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04771.jpg",
+            "nightSequence1--04772.jpg",
+            "nightSequence1--04773.jpg",
+            "nightSequence1--04774.jpg",
+            "nightSequence1--04775.jpg",
+            "nightSequence1--04776.jpg",
+            "nightSequence1--04777.jpg",
+            "nightSequence1--04778.jpg",
+            "nightSequence1--04779.jpg",
+            "nightSequence1--04780.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01162.jpg",
+            "nightSequence1--01163.jpg",
+            "nightSequence1--01164.jpg",
+            "nightSequence1--01165.jpg",
+            "nightSequence1--01166.jpg",
+            "nightSequence1--01167.jpg",
+            "nightSequence1--01168.jpg",
+            "nightSequence1--01169.jpg",
+            "nightSequence1--01170.jpg",
+            "nightSequence1--01171.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01943.jpg",
+            "nightSequence1--01944.jpg",
+            "nightSequence1--01945.jpg",
+            "nightSequence1--01946.jpg",
+            "nightSequence1--01947.jpg",
+            "nightSequence1--01948.jpg",
+            "nightSequence1--01949.jpg",
+            "nightSequence1--01950.jpg",
+            "nightSequence1--01951.jpg",
+            "nightSequence1--01952.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04741.jpg",
+            "nightSequence1--04742.jpg",
+            "nightSequence1--04743.jpg",
+            "nightSequence1--04744.jpg",
+            "nightSequence1--04745.jpg",
+            "nightSequence1--04746.jpg",
+            "nightSequence1--04747.jpg",
+            "nightSequence1--04748.jpg",
+            "nightSequence1--04749.jpg",
+            "nightSequence1--04750.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01422.jpg",
+            "nightSequence1--01423.jpg",
+            "nightSequence1--01424.jpg",
+            "nightSequence1--01425.jpg",
+            "nightSequence1--01426.jpg",
+            "nightSequence1--01427.jpg",
+            "nightSequence1--01428.jpg",
+            "nightSequence1--01429.jpg",
+            "nightSequence1--01430.jpg",
+            "nightSequence1--01431.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03825.jpg",
+            "nightSequence1--03826.jpg",
+            "nightSequence1--03827.jpg",
+            "nightSequence1--03828.jpg",
+            "nightSequence1--03829.jpg",
+            "nightSequence1--03830.jpg",
+            "nightSequence1--03831.jpg",
+            "nightSequence1--03832.jpg",
+            "nightSequence1--03833.jpg",
+            "nightSequence1--03834.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03229.jpg",
+            "nightSequence1--03230.jpg",
+            "nightSequence1--03231.jpg",
+            "nightSequence1--03232.jpg",
+            "nightSequence1--03233.jpg",
+            "nightSequence1--03234.jpg",
+            "nightSequence1--03235.jpg",
+            "nightSequence1--03236.jpg",
+            "nightSequence1--03237.jpg",
+            "nightSequence1--03238.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03259.jpg",
+            "nightSequence1--03260.jpg",
+            "nightSequence1--03261.jpg",
+            "nightSequence1--03262.jpg",
+            "nightSequence1--03263.jpg",
+            "nightSequence1--03264.jpg",
+            "nightSequence1--03265.jpg",
+            "nightSequence1--03266.jpg",
+            "nightSequence1--03267.jpg",
+            "nightSequence1--03268.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01002.jpg",
+            "nightSequence1--01003.jpg",
+            "nightSequence1--01004.jpg",
+            "nightSequence1--01005.jpg",
+            "nightSequence1--01006.jpg",
+            "nightSequence1--01007.jpg",
+            "nightSequence1--01008.jpg",
+            "nightSequence1--01009.jpg",
+            "nightSequence1--01010.jpg",
+            "nightSequence1--01011.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02989.jpg",
+            "nightSequence1--02990.jpg",
+            "nightSequence1--02991.jpg",
+            "nightSequence1--02992.jpg",
+            "nightSequence1--02993.jpg",
+            "nightSequence1--02994.jpg",
+            "nightSequence1--02995.jpg",
+            "nightSequence1--02996.jpg",
+            "nightSequence1--02997.jpg",
+            "nightSequence1--02998.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01402.jpg",
+            "nightSequence1--01403.jpg",
+            "nightSequence1--01404.jpg",
+            "nightSequence1--01405.jpg",
+            "nightSequence1--01406.jpg",
+            "nightSequence1--01407.jpg",
+            "nightSequence1--01408.jpg",
+            "nightSequence1--01409.jpg",
+            "nightSequence1--01410.jpg",
+            "nightSequence1--01411.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03109.jpg",
+            "nightSequence1--03110.jpg",
+            "nightSequence1--03111.jpg",
+            "nightSequence1--03112.jpg",
+            "nightSequence1--03113.jpg",
+            "nightSequence1--03114.jpg",
+            "nightSequence1--03115.jpg",
+            "nightSequence1--03116.jpg",
+            "nightSequence1--03117.jpg",
+            "nightSequence1--03118.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02013.jpg",
+            "nightSequence1--02014.jpg",
+            "nightSequence1--02015.jpg",
+            "nightSequence1--02016.jpg",
+            "nightSequence1--02017.jpg",
+            "nightSequence1--02018.jpg",
+            "nightSequence1--02019.jpg",
+            "nightSequence1--02020.jpg",
+            "nightSequence1--02021.jpg",
+            "nightSequence1--02022.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00334.jpg",
+            "nightSequence1--00335.jpg",
+            "nightSequence1--00336.jpg",
+            "nightSequence1--00337.jpg",
+            "nightSequence1--00338.jpg",
+            "nightSequence1--00339.jpg",
+            "nightSequence1--00340.jpg",
+            "nightSequence1--00341.jpg",
+            "nightSequence1--00342.jpg",
+            "nightSequence1--00343.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00942.jpg",
+            "nightSequence1--00943.jpg",
+            "nightSequence1--00944.jpg",
+            "nightSequence1--00945.jpg",
+            "nightSequence1--00946.jpg",
+            "nightSequence1--00947.jpg",
+            "nightSequence1--00948.jpg",
+            "nightSequence1--00949.jpg",
+            "nightSequence1--00950.jpg",
+            "nightSequence1--00951.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03089.jpg",
+            "nightSequence1--03090.jpg",
+            "nightSequence1--03091.jpg",
+            "nightSequence1--03092.jpg",
+            "nightSequence1--03093.jpg",
+            "nightSequence1--03094.jpg",
+            "nightSequence1--03095.jpg",
+            "nightSequence1--03096.jpg",
+            "nightSequence1--03097.jpg",
+            "nightSequence1--03098.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03935.jpg",
+            "nightSequence1--03936.jpg",
+            "nightSequence1--03937.jpg",
+            "nightSequence1--03938.jpg",
+            "nightSequence1--03939.jpg",
+            "nightSequence1--03940.jpg",
+            "nightSequence1--03941.jpg",
+            "nightSequence1--03942.jpg",
+            "nightSequence1--03943.jpg",
+            "nightSequence1--03944.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02999.jpg",
+            "nightSequence1--03000.jpg",
+            "nightSequence1--03001.jpg",
+            "nightSequence1--03002.jpg",
+            "nightSequence1--03003.jpg",
+            "nightSequence1--03004.jpg",
+            "nightSequence1--03005.jpg",
+            "nightSequence1--03006.jpg",
+            "nightSequence1--03007.jpg",
+            "nightSequence1--03008.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02719.jpg",
+            "nightSequence1--02720.jpg",
+            "nightSequence1--02721.jpg",
+            "nightSequence1--02722.jpg",
+            "nightSequence1--02723.jpg",
+            "nightSequence1--02724.jpg",
+            "nightSequence1--02725.jpg",
+            "nightSequence1--02726.jpg",
+            "nightSequence1--02727.jpg",
+            "nightSequence1--02728.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02023.jpg",
+            "nightSequence1--02024.jpg",
+            "nightSequence1--02025.jpg",
+            "nightSequence1--02026.jpg",
+            "nightSequence1--02027.jpg",
+            "nightSequence1--02028.jpg",
+            "nightSequence1--02029.jpg",
+            "nightSequence1--02030.jpg",
+            "nightSequence1--02031.jpg",
+            "nightSequence1--02032.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04359.jpg",
+            "nightSequence1--04360.jpg",
+            "nightSequence1--04361.jpg",
+            "nightSequence1--04362.jpg",
+            "nightSequence1--04363.jpg",
+            "nightSequence1--04364.jpg",
+            "nightSequence1--04365.jpg",
+            "nightSequence1--04366.jpg",
+            "nightSequence1--04367.jpg",
+            "nightSequence1--04368.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03875.jpg",
+            "nightSequence1--03876.jpg",
+            "nightSequence1--03877.jpg",
+            "nightSequence1--03878.jpg",
+            "nightSequence1--03879.jpg",
+            "nightSequence1--03880.jpg",
+            "nightSequence1--03881.jpg",
+            "nightSequence1--03882.jpg",
+            "nightSequence1--03883.jpg",
+            "nightSequence1--03884.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01632.jpg",
+            "nightSequence1--01633.jpg",
+            "nightSequence1--01634.jpg",
+            "nightSequence1--01635.jpg",
+            "nightSequence1--01636.jpg",
+            "nightSequence1--01637.jpg",
+            "nightSequence1--01638.jpg",
+            "nightSequence1--01639.jpg",
+            "nightSequence1--01640.jpg",
+            "nightSequence1--01641.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00952.jpg",
+            "nightSequence1--00953.jpg",
+            "nightSequence1--00954.jpg",
+            "nightSequence1--00955.jpg",
+            "nightSequence1--00956.jpg",
+            "nightSequence1--00957.jpg",
+            "nightSequence1--00958.jpg",
+            "nightSequence1--00959.jpg",
+            "nightSequence1--00960.jpg",
+            "nightSequence1--00961.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00982.jpg",
+            "nightSequence1--00983.jpg",
+            "nightSequence1--00984.jpg",
+            "nightSequence1--00985.jpg",
+            "nightSequence1--00986.jpg",
+            "nightSequence1--00987.jpg",
+            "nightSequence1--00988.jpg",
+            "nightSequence1--00989.jpg",
+            "nightSequence1--00990.jpg",
+            "nightSequence1--00991.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02689.jpg",
+            "nightSequence1--02690.jpg",
+            "nightSequence1--02691.jpg",
+            "nightSequence1--02692.jpg",
+            "nightSequence1--02693.jpg",
+            "nightSequence1--02694.jpg",
+            "nightSequence1--02695.jpg",
+            "nightSequence1--02696.jpg",
+            "nightSequence1--02697.jpg",
+            "nightSequence1--02698.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01172.jpg",
+            "nightSequence1--01173.jpg",
+            "nightSequence1--01174.jpg",
+            "nightSequence1--01175.jpg",
+            "nightSequence1--01176.jpg",
+            "nightSequence1--01177.jpg",
+            "nightSequence1--01178.jpg",
+            "nightSequence1--01179.jpg",
+            "nightSequence1--01180.jpg",
+            "nightSequence1--01181.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01132.jpg",
+            "nightSequence1--01133.jpg",
+            "nightSequence1--01134.jpg",
+            "nightSequence1--01135.jpg",
+            "nightSequence1--01136.jpg",
+            "nightSequence1--01137.jpg",
+            "nightSequence1--01138.jpg",
+            "nightSequence1--01139.jpg",
+            "nightSequence1--01140.jpg",
+            "nightSequence1--01141.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03775.jpg",
+            "nightSequence1--03776.jpg",
+            "nightSequence1--03777.jpg",
+            "nightSequence1--03778.jpg",
+            "nightSequence1--03779.jpg",
+            "nightSequence1--03780.jpg",
+            "nightSequence1--03781.jpg",
+            "nightSequence1--03782.jpg",
+            "nightSequence1--03783.jpg",
+            "nightSequence1--03784.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00540.jpg",
+            "nightSequence1--00541.jpg",
+            "nightSequence1--00542.jpg",
+            "nightSequence1--00543.jpg",
+            "nightSequence1--00544.jpg",
+            "nightSequence1--00545.jpg",
+            "nightSequence1--00546.jpg",
+            "nightSequence1--00547.jpg",
+            "nightSequence1--00548.jpg",
+            "nightSequence1--00549.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01542.jpg",
+            "nightSequence1--01543.jpg",
+            "nightSequence1--01544.jpg",
+            "nightSequence1--01545.jpg",
+            "nightSequence1--01546.jpg",
+            "nightSequence1--01547.jpg",
+            "nightSequence1--01548.jpg",
+            "nightSequence1--01549.jpg",
+            "nightSequence1--01550.jpg",
+            "nightSequence1--01551.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01783.jpg",
+            "nightSequence1--01784.jpg",
+            "nightSequence1--01785.jpg",
+            "nightSequence1--01786.jpg",
+            "nightSequence1--01787.jpg",
+            "nightSequence1--01788.jpg",
+            "nightSequence1--01789.jpg",
+            "nightSequence1--01790.jpg",
+            "nightSequence1--01791.jpg",
+            "nightSequence1--01792.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02063.jpg",
+            "nightSequence1--02064.jpg",
+            "nightSequence1--02065.jpg",
+            "nightSequence1--02066.jpg",
+            "nightSequence1--02067.jpg",
+            "nightSequence1--02068.jpg",
+            "nightSequence1--02069.jpg",
+            "nightSequence1--02070.jpg",
+            "nightSequence1--02071.jpg",
+            "nightSequence1--02072.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01502.jpg",
+            "nightSequence1--01503.jpg",
+            "nightSequence1--01504.jpg",
+            "nightSequence1--01505.jpg",
+            "nightSequence1--01506.jpg",
+            "nightSequence1--01507.jpg",
+            "nightSequence1--01508.jpg",
+            "nightSequence1--01509.jpg",
+            "nightSequence1--01510.jpg",
+            "nightSequence1--01511.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01803.jpg",
+            "nightSequence1--01804.jpg",
+            "nightSequence1--01805.jpg",
+            "nightSequence1--01806.jpg",
+            "nightSequence1--01807.jpg",
+            "nightSequence1--01808.jpg",
+            "nightSequence1--01809.jpg",
+            "nightSequence1--01810.jpg",
+            "nightSequence1--01811.jpg",
+            "nightSequence1--01812.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03169.jpg",
+            "nightSequence1--03170.jpg",
+            "nightSequence1--03171.jpg",
+            "nightSequence1--03172.jpg",
+            "nightSequence1--03173.jpg",
+            "nightSequence1--03174.jpg",
+            "nightSequence1--03175.jpg",
+            "nightSequence1--03176.jpg",
+            "nightSequence1--03177.jpg",
+            "nightSequence1--03178.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01923.jpg",
+            "nightSequence1--01924.jpg",
+            "nightSequence1--01925.jpg",
+            "nightSequence1--01926.jpg",
+            "nightSequence1--01927.jpg",
+            "nightSequence1--01928.jpg",
+            "nightSequence1--01929.jpg",
+            "nightSequence1--01930.jpg",
+            "nightSequence1--01931.jpg",
+            "nightSequence1--01932.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03735.jpg",
+            "nightSequence1--03736.jpg",
+            "nightSequence1--03737.jpg",
+            "nightSequence1--03738.jpg",
+            "nightSequence1--03739.jpg",
+            "nightSequence1--03740.jpg",
+            "nightSequence1--03741.jpg",
+            "nightSequence1--03742.jpg",
+            "nightSequence1--03743.jpg",
+            "nightSequence1--03744.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01342.jpg",
+            "nightSequence1--01343.jpg",
+            "nightSequence1--01344.jpg",
+            "nightSequence1--01345.jpg",
+            "nightSequence1--01346.jpg",
+            "nightSequence1--01347.jpg",
+            "nightSequence1--01348.jpg",
+            "nightSequence1--01349.jpg",
+            "nightSequence1--01350.jpg",
+            "nightSequence1--01351.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01953.jpg",
+            "nightSequence1--01954.jpg",
+            "nightSequence1--01955.jpg",
+            "nightSequence1--01956.jpg",
+            "nightSequence1--01957.jpg",
+            "nightSequence1--01958.jpg",
+            "nightSequence1--01959.jpg",
+            "nightSequence1--01960.jpg",
+            "nightSequence1--01961.jpg",
+            "nightSequence1--01962.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01743.jpg",
+            "nightSequence1--01744.jpg",
+            "nightSequence1--01745.jpg",
+            "nightSequence1--01746.jpg",
+            "nightSequence1--01747.jpg",
+            "nightSequence1--01748.jpg",
+            "nightSequence1--01749.jpg",
+            "nightSequence1--01750.jpg",
+            "nightSequence1--01751.jpg",
+            "nightSequence1--01752.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02053.jpg",
+            "nightSequence1--02054.jpg",
+            "nightSequence1--02055.jpg",
+            "nightSequence1--02056.jpg",
+            "nightSequence1--02057.jpg",
+            "nightSequence1--02058.jpg",
+            "nightSequence1--02059.jpg",
+            "nightSequence1--02060.jpg",
+            "nightSequence1--02061.jpg",
+            "nightSequence1--02062.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03455.jpg",
+            "nightSequence1--03456.jpg",
+            "nightSequence1--03457.jpg",
+            "nightSequence1--03458.jpg",
+            "nightSequence1--03459.jpg",
+            "nightSequence1--03460.jpg",
+            "nightSequence1--03461.jpg",
+            "nightSequence1--03462.jpg",
+            "nightSequence1--03463.jpg",
+            "nightSequence1--03464.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01332.jpg",
+            "nightSequence1--01333.jpg",
+            "nightSequence1--01334.jpg",
+            "nightSequence1--01335.jpg",
+            "nightSequence1--01336.jpg",
+            "nightSequence1--01337.jpg",
+            "nightSequence1--01338.jpg",
+            "nightSequence1--01339.jpg",
+            "nightSequence1--01340.jpg",
+            "nightSequence1--01341.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02003.jpg",
+            "nightSequence1--02004.jpg",
+            "nightSequence1--02005.jpg",
+            "nightSequence1--02006.jpg",
+            "nightSequence1--02007.jpg",
+            "nightSequence1--02008.jpg",
+            "nightSequence1--02009.jpg",
+            "nightSequence1--02010.jpg",
+            "nightSequence1--02011.jpg",
+            "nightSequence1--02012.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02073.jpg",
+            "nightSequence1--02074.jpg",
+            "nightSequence1--02075.jpg",
+            "nightSequence1--02076.jpg",
+            "nightSequence1--02077.jpg",
+            "nightSequence1--02078.jpg",
+            "nightSequence1--02079.jpg",
+            "nightSequence1--02080.jpg",
+            "nightSequence1--02081.jpg",
+            "nightSequence1--02082.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00344.jpg",
+            "nightSequence1--00345.jpg",
+            "nightSequence1--00346.jpg",
+            "nightSequence1--00347.jpg",
+            "nightSequence1--00348.jpg",
+            "nightSequence1--00349.jpg",
+            "nightSequence1--00350.jpg",
+            "nightSequence1--00351.jpg",
+            "nightSequence1--00352.jpg",
+            "nightSequence1--00353.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03755.jpg",
+            "nightSequence1--03756.jpg",
+            "nightSequence1--03757.jpg",
+            "nightSequence1--03758.jpg",
+            "nightSequence1--03759.jpg",
+            "nightSequence1--03760.jpg",
+            "nightSequence1--03761.jpg",
+            "nightSequence1--03762.jpg",
+            "nightSequence1--03763.jpg",
+            "nightSequence1--03764.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03845.jpg",
+            "nightSequence1--03846.jpg",
+            "nightSequence1--03847.jpg",
+            "nightSequence1--03848.jpg",
+            "nightSequence1--03849.jpg",
+            "nightSequence1--03850.jpg",
+            "nightSequence1--03851.jpg",
+            "nightSequence1--03852.jpg",
+            "nightSequence1--03853.jpg",
+            "nightSequence1--03854.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02849.jpg",
+            "nightSequence1--02850.jpg",
+            "nightSequence1--02851.jpg",
+            "nightSequence1--02852.jpg",
+            "nightSequence1--02853.jpg",
+            "nightSequence1--02854.jpg",
+            "nightSequence1--02855.jpg",
+            "nightSequence1--02856.jpg",
+            "nightSequence1--02857.jpg",
+            "nightSequence1--02858.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04731.jpg",
+            "nightSequence1--04732.jpg",
+            "nightSequence1--04733.jpg",
+            "nightSequence1--04734.jpg",
+            "nightSequence1--04735.jpg",
+            "nightSequence1--04736.jpg",
+            "nightSequence1--04737.jpg",
+            "nightSequence1--04738.jpg",
+            "nightSequence1--04739.jpg",
+            "nightSequence1--04740.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01552.jpg",
+            "nightSequence1--01553.jpg",
+            "nightSequence1--01554.jpg",
+            "nightSequence1--01555.jpg",
+            "nightSequence1--01556.jpg",
+            "nightSequence1--01557.jpg",
+            "nightSequence1--01558.jpg",
+            "nightSequence1--01559.jpg",
+            "nightSequence1--01560.jpg",
+            "nightSequence1--01561.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04791.jpg",
+            "nightSequence1--04792.jpg",
+            "nightSequence1--04793.jpg",
+            "nightSequence1--04794.jpg",
+            "nightSequence1--04795.jpg",
+            "nightSequence1--04796.jpg",
+            "nightSequence1--04797.jpg",
+            "nightSequence1--04798.jpg",
+            "nightSequence1--04799.jpg",
+            "nightSequence1--04800.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00374.jpg",
+            "nightSequence1--00375.jpg",
+            "nightSequence1--00376.jpg",
+            "nightSequence1--00377.jpg",
+            "nightSequence1--00378.jpg",
+            "nightSequence1--00379.jpg",
+            "nightSequence1--00380.jpg",
+            "nightSequence1--00381.jpg",
+            "nightSequence1--00382.jpg",
+            "nightSequence1--00383.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02909.jpg",
+            "nightSequence1--02910.jpg",
+            "nightSequence1--02911.jpg",
+            "nightSequence1--02912.jpg",
+            "nightSequence1--02913.jpg",
+            "nightSequence1--02914.jpg",
+            "nightSequence1--02915.jpg",
+            "nightSequence1--02916.jpg",
+            "nightSequence1--02917.jpg",
+            "nightSequence1--02918.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02779.jpg",
+            "nightSequence1--02780.jpg",
+            "nightSequence1--02781.jpg",
+            "nightSequence1--02782.jpg",
+            "nightSequence1--02783.jpg",
+            "nightSequence1--02784.jpg",
+            "nightSequence1--02785.jpg",
+            "nightSequence1--02786.jpg",
+            "nightSequence1--02787.jpg",
+            "nightSequence1--02788.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04419.jpg",
+            "nightSequence1--04420.jpg",
+            "nightSequence1--04421.jpg",
+            "nightSequence1--04422.jpg",
+            "nightSequence1--04423.jpg",
+            "nightSequence1--04424.jpg",
+            "nightSequence1--04425.jpg",
+            "nightSequence1--04426.jpg",
+            "nightSequence1--04427.jpg",
+            "nightSequence1--04428.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02679.jpg",
+            "nightSequence1--02680.jpg",
+            "nightSequence1--02681.jpg",
+            "nightSequence1--02682.jpg",
+            "nightSequence1--02683.jpg",
+            "nightSequence1--02684.jpg",
+            "nightSequence1--02685.jpg",
+            "nightSequence1--02686.jpg",
+            "nightSequence1--02687.jpg",
+            "nightSequence1--02688.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01042.jpg",
+            "nightSequence1--01043.jpg",
+            "nightSequence1--01044.jpg",
+            "nightSequence1--01045.jpg",
+            "nightSequence1--01046.jpg",
+            "nightSequence1--01047.jpg",
+            "nightSequence1--01048.jpg",
+            "nightSequence1--01049.jpg",
+            "nightSequence1--01050.jpg",
+            "nightSequence1--01051.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02899.jpg",
+            "nightSequence1--02900.jpg",
+            "nightSequence1--02901.jpg",
+            "nightSequence1--02902.jpg",
+            "nightSequence1--02903.jpg",
+            "nightSequence1--02904.jpg",
+            "nightSequence1--02905.jpg",
+            "nightSequence1--02906.jpg",
+            "nightSequence1--02907.jpg",
+            "nightSequence1--02908.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03465.jpg",
+            "nightSequence1--03466.jpg",
+            "nightSequence1--03467.jpg",
+            "nightSequence1--03468.jpg",
+            "nightSequence1--03469.jpg",
+            "nightSequence1--03470.jpg",
+            "nightSequence1--03471.jpg",
+            "nightSequence1--03472.jpg",
+            "nightSequence1--03473.jpg",
+            "nightSequence1--03474.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00520.jpg",
+            "nightSequence1--00521.jpg",
+            "nightSequence1--00522.jpg",
+            "nightSequence1--00523.jpg",
+            "nightSequence1--00524.jpg",
+            "nightSequence1--00525.jpg",
+            "nightSequence1--00526.jpg",
+            "nightSequence1--00527.jpg",
+            "nightSequence1--00528.jpg",
+            "nightSequence1--00529.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01372.jpg",
+            "nightSequence1--01373.jpg",
+            "nightSequence1--01374.jpg",
+            "nightSequence1--01375.jpg",
+            "nightSequence1--01376.jpg",
+            "nightSequence1--01377.jpg",
+            "nightSequence1--01378.jpg",
+            "nightSequence1--01379.jpg",
+            "nightSequence1--01380.jpg",
+            "nightSequence1--01381.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03219.jpg",
+            "nightSequence1--03220.jpg",
+            "nightSequence1--03221.jpg",
+            "nightSequence1--03222.jpg",
+            "nightSequence1--03223.jpg",
+            "nightSequence1--03224.jpg",
+            "nightSequence1--03225.jpg",
+            "nightSequence1--03226.jpg",
+            "nightSequence1--03227.jpg",
+            "nightSequence1--03228.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01622.jpg",
+            "nightSequence1--01623.jpg",
+            "nightSequence1--01624.jpg",
+            "nightSequence1--01625.jpg",
+            "nightSequence1--01626.jpg",
+            "nightSequence1--01627.jpg",
+            "nightSequence1--01628.jpg",
+            "nightSequence1--01629.jpg",
+            "nightSequence1--01630.jpg",
+            "nightSequence1--01631.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01983.jpg",
+            "nightSequence1--01984.jpg",
+            "nightSequence1--01985.jpg",
+            "nightSequence1--01986.jpg",
+            "nightSequence1--01987.jpg",
+            "nightSequence1--01988.jpg",
+            "nightSequence1--01989.jpg",
+            "nightSequence1--01990.jpg",
+            "nightSequence1--01991.jpg",
+            "nightSequence1--01992.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00972.jpg",
+            "nightSequence1--00973.jpg",
+            "nightSequence1--00974.jpg",
+            "nightSequence1--00975.jpg",
+            "nightSequence1--00976.jpg",
+            "nightSequence1--00977.jpg",
+            "nightSequence1--00978.jpg",
+            "nightSequence1--00979.jpg",
+            "nightSequence1--00980.jpg",
+            "nightSequence1--00981.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01392.jpg",
+            "nightSequence1--01393.jpg",
+            "nightSequence1--01394.jpg",
+            "nightSequence1--01395.jpg",
+            "nightSequence1--01396.jpg",
+            "nightSequence1--01397.jpg",
+            "nightSequence1--01398.jpg",
+            "nightSequence1--01399.jpg",
+            "nightSequence1--01400.jpg",
+            "nightSequence1--01401.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04711.jpg",
+            "nightSequence1--04712.jpg",
+            "nightSequence1--04713.jpg",
+            "nightSequence1--04714.jpg",
+            "nightSequence1--04715.jpg",
+            "nightSequence1--04716.jpg",
+            "nightSequence1--04717.jpg",
+            "nightSequence1--04718.jpg",
+            "nightSequence1--04719.jpg",
+            "nightSequence1--04720.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03745.jpg",
+            "nightSequence1--03746.jpg",
+            "nightSequence1--03747.jpg",
+            "nightSequence1--03748.jpg",
+            "nightSequence1--03749.jpg",
+            "nightSequence1--03750.jpg",
+            "nightSequence1--03751.jpg",
+            "nightSequence1--03752.jpg",
+            "nightSequence1--03753.jpg",
+            "nightSequence1--03754.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01592.jpg",
+            "nightSequence1--01593.jpg",
+            "nightSequence1--01594.jpg",
+            "nightSequence1--01595.jpg",
+            "nightSequence1--01596.jpg",
+            "nightSequence1--01597.jpg",
+            "nightSequence1--01598.jpg",
+            "nightSequence1--01599.jpg",
+            "nightSequence1--01600.jpg",
+            "nightSequence1--01601.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01773.jpg",
+            "nightSequence1--01774.jpg",
+            "nightSequence1--01775.jpg",
+            "nightSequence1--01776.jpg",
+            "nightSequence1--01777.jpg",
+            "nightSequence1--01778.jpg",
+            "nightSequence1--01779.jpg",
+            "nightSequence1--01780.jpg",
+            "nightSequence1--01781.jpg",
+            "nightSequence1--01782.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04409.jpg",
+            "nightSequence1--04410.jpg",
+            "nightSequence1--04411.jpg",
+            "nightSequence1--04412.jpg",
+            "nightSequence1--04413.jpg",
+            "nightSequence1--04414.jpg",
+            "nightSequence1--04415.jpg",
+            "nightSequence1--04416.jpg",
+            "nightSequence1--04417.jpg",
+            "nightSequence1--04418.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02939.jpg",
+            "nightSequence1--02940.jpg",
+            "nightSequence1--02941.jpg",
+            "nightSequence1--02942.jpg",
+            "nightSequence1--02943.jpg",
+            "nightSequence1--02944.jpg",
+            "nightSequence1--02945.jpg",
+            "nightSequence1--02946.jpg",
+            "nightSequence1--02947.jpg",
+            "nightSequence1--02948.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01222.jpg",
+            "nightSequence1--01223.jpg",
+            "nightSequence1--01224.jpg",
+            "nightSequence1--01225.jpg",
+            "nightSequence1--01226.jpg",
+            "nightSequence1--01227.jpg",
+            "nightSequence1--01228.jpg",
+            "nightSequence1--01229.jpg",
+            "nightSequence1--01230.jpg",
+            "nightSequence1--01231.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01913.jpg",
+            "nightSequence1--01914.jpg",
+            "nightSequence1--01915.jpg",
+            "nightSequence1--01916.jpg",
+            "nightSequence1--01917.jpg",
+            "nightSequence1--01918.jpg",
+            "nightSequence1--01919.jpg",
+            "nightSequence1--01920.jpg",
+            "nightSequence1--01921.jpg",
+            "nightSequence1--01922.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01052.jpg",
+            "nightSequence1--01053.jpg",
+            "nightSequence1--01054.jpg",
+            "nightSequence1--01055.jpg",
+            "nightSequence1--01056.jpg",
+            "nightSequence1--01057.jpg",
+            "nightSequence1--01058.jpg",
+            "nightSequence1--01059.jpg",
+            "nightSequence1--01060.jpg",
+            "nightSequence1--01061.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03865.jpg",
+            "nightSequence1--03866.jpg",
+            "nightSequence1--03867.jpg",
+            "nightSequence1--03868.jpg",
+            "nightSequence1--03869.jpg",
+            "nightSequence1--03870.jpg",
+            "nightSequence1--03871.jpg",
+            "nightSequence1--03872.jpg",
+            "nightSequence1--03873.jpg",
+            "nightSequence1--03874.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00364.jpg",
+            "nightSequence1--00365.jpg",
+            "nightSequence1--00366.jpg",
+            "nightSequence1--00367.jpg",
+            "nightSequence1--00368.jpg",
+            "nightSequence1--00369.jpg",
+            "nightSequence1--00370.jpg",
+            "nightSequence1--00371.jpg",
+            "nightSequence1--00372.jpg",
+            "nightSequence1--00373.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03209.jpg",
+            "nightSequence1--03210.jpg",
+            "nightSequence1--03211.jpg",
+            "nightSequence1--03212.jpg",
+            "nightSequence1--03213.jpg",
+            "nightSequence1--03214.jpg",
+            "nightSequence1--03215.jpg",
+            "nightSequence1--03216.jpg",
+            "nightSequence1--03217.jpg",
+            "nightSequence1--03218.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01182.jpg",
+            "nightSequence1--01183.jpg",
+            "nightSequence1--01184.jpg",
+            "nightSequence1--01185.jpg",
+            "nightSequence1--01186.jpg",
+            "nightSequence1--01187.jpg",
+            "nightSequence1--01188.jpg",
+            "nightSequence1--01189.jpg",
+            "nightSequence1--01190.jpg",
+            "nightSequence1--01191.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01322.jpg",
+            "nightSequence1--01323.jpg",
+            "nightSequence1--01324.jpg",
+            "nightSequence1--01325.jpg",
+            "nightSequence1--01326.jpg",
+            "nightSequence1--01327.jpg",
+            "nightSequence1--01328.jpg",
+            "nightSequence1--01329.jpg",
+            "nightSequence1--01330.jpg",
+            "nightSequence1--01331.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01192.jpg",
+            "nightSequence1--01193.jpg",
+            "nightSequence1--01194.jpg",
+            "nightSequence1--01195.jpg",
+            "nightSequence1--01196.jpg",
+            "nightSequence1--01197.jpg",
+            "nightSequence1--01198.jpg",
+            "nightSequence1--01199.jpg",
+            "nightSequence1--01200.jpg",
+            "nightSequence1--01201.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01312.jpg",
+            "nightSequence1--01313.jpg",
+            "nightSequence1--01314.jpg",
+            "nightSequence1--01315.jpg",
+            "nightSequence1--01316.jpg",
+            "nightSequence1--01317.jpg",
+            "nightSequence1--01318.jpg",
+            "nightSequence1--01319.jpg",
+            "nightSequence1--01320.jpg",
+            "nightSequence1--01321.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04661.jpg",
+            "nightSequence1--04662.jpg",
+            "nightSequence1--04663.jpg",
+            "nightSequence1--04664.jpg",
+            "nightSequence1--04665.jpg",
+            "nightSequence1--04666.jpg",
+            "nightSequence1--04667.jpg",
+            "nightSequence1--04668.jpg",
+            "nightSequence1--04669.jpg",
+            "nightSequence1--04670.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04701.jpg",
+            "nightSequence1--04702.jpg",
+            "nightSequence1--04703.jpg",
+            "nightSequence1--04704.jpg",
+            "nightSequence1--04705.jpg",
+            "nightSequence1--04706.jpg",
+            "nightSequence1--04707.jpg",
+            "nightSequence1--04708.jpg",
+            "nightSequence1--04709.jpg",
+            "nightSequence1--04710.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01252.jpg",
+            "nightSequence1--01253.jpg",
+            "nightSequence1--01254.jpg",
+            "nightSequence1--01255.jpg",
+            "nightSequence1--01256.jpg",
+            "nightSequence1--01257.jpg",
+            "nightSequence1--01258.jpg",
+            "nightSequence1--01259.jpg",
+            "nightSequence1--01260.jpg",
+            "nightSequence1--01261.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01582.jpg",
+            "nightSequence1--01583.jpg",
+            "nightSequence1--01584.jpg",
+            "nightSequence1--01585.jpg",
+            "nightSequence1--01586.jpg",
+            "nightSequence1--01587.jpg",
+            "nightSequence1--01588.jpg",
+            "nightSequence1--01589.jpg",
+            "nightSequence1--01590.jpg",
+            "nightSequence1--01591.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03885.jpg",
+            "nightSequence1--03886.jpg",
+            "nightSequence1--03887.jpg",
+            "nightSequence1--03888.jpg",
+            "nightSequence1--03889.jpg",
+            "nightSequence1--03890.jpg",
+            "nightSequence1--03891.jpg",
+            "nightSequence1--03892.jpg",
+            "nightSequence1--03893.jpg",
+            "nightSequence1--03894.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00460.jpg",
+            "nightSequence1--00461.jpg",
+            "nightSequence1--00462.jpg",
+            "nightSequence1--00463.jpg",
+            "nightSequence1--00464.jpg",
+            "nightSequence1--00465.jpg",
+            "nightSequence1--00466.jpg",
+            "nightSequence1--00467.jpg",
+            "nightSequence1--00468.jpg",
+            "nightSequence1--00469.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02669.jpg",
+            "nightSequence1--02670.jpg",
+            "nightSequence1--02671.jpg",
+            "nightSequence1--02672.jpg",
+            "nightSequence1--02673.jpg",
+            "nightSequence1--02674.jpg",
+            "nightSequence1--02675.jpg",
+            "nightSequence1--02676.jpg",
+            "nightSequence1--02677.jpg",
+            "nightSequence1--02678.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04429.jpg",
+            "nightSequence1--04430.jpg",
+            "nightSequence1--04431.jpg",
+            "nightSequence1--04432.jpg",
+            "nightSequence1--04433.jpg",
+            "nightSequence1--04434.jpg",
+            "nightSequence1--04435.jpg",
+            "nightSequence1--04436.jpg",
+            "nightSequence1--04437.jpg",
+            "nightSequence1--04438.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01733.jpg",
+            "nightSequence1--01734.jpg",
+            "nightSequence1--01735.jpg",
+            "nightSequence1--01736.jpg",
+            "nightSequence1--01737.jpg",
+            "nightSequence1--01738.jpg",
+            "nightSequence1--01739.jpg",
+            "nightSequence1--01740.jpg",
+            "nightSequence1--01741.jpg",
+            "nightSequence1--01742.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04781.jpg",
+            "nightSequence1--04782.jpg",
+            "nightSequence1--04783.jpg",
+            "nightSequence1--04784.jpg",
+            "nightSequence1--04785.jpg",
+            "nightSequence1--04786.jpg",
+            "nightSequence1--04787.jpg",
+            "nightSequence1--04788.jpg",
+            "nightSequence1--04789.jpg",
+            "nightSequence1--04790.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01512.jpg",
+            "nightSequence1--01513.jpg",
+            "nightSequence1--01514.jpg",
+            "nightSequence1--01515.jpg",
+            "nightSequence1--01516.jpg",
+            "nightSequence1--01517.jpg",
+            "nightSequence1--01518.jpg",
+            "nightSequence1--01519.jpg",
+            "nightSequence1--01520.jpg",
+            "nightSequence1--01521.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01432.jpg",
+            "nightSequence1--01433.jpg",
+            "nightSequence1--01434.jpg",
+            "nightSequence1--01435.jpg",
+            "nightSequence1--01436.jpg",
+            "nightSequence1--01437.jpg",
+            "nightSequence1--01438.jpg",
+            "nightSequence1--01439.jpg",
+            "nightSequence1--01440.jpg",
+            "nightSequence1--01441.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03915.jpg",
+            "nightSequence1--03916.jpg",
+            "nightSequence1--03917.jpg",
+            "nightSequence1--03918.jpg",
+            "nightSequence1--03919.jpg",
+            "nightSequence1--03920.jpg",
+            "nightSequence1--03921.jpg",
+            "nightSequence1--03922.jpg",
+            "nightSequence1--03923.jpg",
+            "nightSequence1--03924.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03785.jpg",
+            "nightSequence1--03786.jpg",
+            "nightSequence1--03787.jpg",
+            "nightSequence1--03788.jpg",
+            "nightSequence1--03789.jpg",
+            "nightSequence1--03790.jpg",
+            "nightSequence1--03791.jpg",
+            "nightSequence1--03792.jpg",
+            "nightSequence1--03793.jpg",
+            "nightSequence1--03794.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00922.jpg",
+            "nightSequence1--00923.jpg",
+            "nightSequence1--00924.jpg",
+            "nightSequence1--00925.jpg",
+            "nightSequence1--00926.jpg",
+            "nightSequence1--00927.jpg",
+            "nightSequence1--00928.jpg",
+            "nightSequence1--00929.jpg",
+            "nightSequence1--00930.jpg",
+            "nightSequence1--00931.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02889.jpg",
+            "nightSequence1--02890.jpg",
+            "nightSequence1--02891.jpg",
+            "nightSequence1--02892.jpg",
+            "nightSequence1--02893.jpg",
+            "nightSequence1--02894.jpg",
+            "nightSequence1--02895.jpg",
+            "nightSequence1--02896.jpg",
+            "nightSequence1--02897.jpg",
+            "nightSequence1--02898.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02083.jpg",
+            "nightSequence1--02084.jpg",
+            "nightSequence1--02085.jpg",
+            "nightSequence1--02086.jpg",
+            "nightSequence1--02087.jpg",
+            "nightSequence1--02088.jpg",
+            "nightSequence1--02089.jpg",
+            "nightSequence1--02090.jpg",
+            "nightSequence1--02091.jpg",
+            "nightSequence1--02092.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03239.jpg",
+            "nightSequence1--03240.jpg",
+            "nightSequence1--03241.jpg",
+            "nightSequence1--03242.jpg",
+            "nightSequence1--03243.jpg",
+            "nightSequence1--03244.jpg",
+            "nightSequence1--03245.jpg",
+            "nightSequence1--03246.jpg",
+            "nightSequence1--03247.jpg",
+            "nightSequence1--03248.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01022.jpg",
+            "nightSequence1--01023.jpg",
+            "nightSequence1--01024.jpg",
+            "nightSequence1--01025.jpg",
+            "nightSequence1--01026.jpg",
+            "nightSequence1--01027.jpg",
+            "nightSequence1--01028.jpg",
+            "nightSequence1--01029.jpg",
+            "nightSequence1--01030.jpg",
+            "nightSequence1--01031.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02859.jpg",
+            "nightSequence1--02860.jpg",
+            "nightSequence1--02861.jpg",
+            "nightSequence1--02862.jpg",
+            "nightSequence1--02863.jpg",
+            "nightSequence1--02864.jpg",
+            "nightSequence1--02865.jpg",
+            "nightSequence1--02866.jpg",
+            "nightSequence1--02867.jpg",
+            "nightSequence1--02868.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00962.jpg",
+            "nightSequence1--00963.jpg",
+            "nightSequence1--00964.jpg",
+            "nightSequence1--00965.jpg",
+            "nightSequence1--00966.jpg",
+            "nightSequence1--00967.jpg",
+            "nightSequence1--00968.jpg",
+            "nightSequence1--00969.jpg",
+            "nightSequence1--00970.jpg",
+            "nightSequence1--00971.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--00354.jpg",
+            "nightSequence1--00355.jpg",
+            "nightSequence1--00356.jpg",
+            "nightSequence1--00357.jpg",
+            "nightSequence1--00358.jpg",
+            "nightSequence1--00359.jpg",
+            "nightSequence1--00360.jpg",
+            "nightSequence1--00361.jpg",
+            "nightSequence1--00362.jpg",
+            "nightSequence1--00363.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01612.jpg",
+            "nightSequence1--01613.jpg",
+            "nightSequence1--01614.jpg",
+            "nightSequence1--01615.jpg",
+            "nightSequence1--01616.jpg",
+            "nightSequence1--01617.jpg",
+            "nightSequence1--01618.jpg",
+            "nightSequence1--01619.jpg",
+            "nightSequence1--01620.jpg",
+            "nightSequence1--01621.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04721.jpg",
+            "nightSequence1--04722.jpg",
+            "nightSequence1--04723.jpg",
+            "nightSequence1--04724.jpg",
+            "nightSequence1--04725.jpg",
+            "nightSequence1--04726.jpg",
+            "nightSequence1--04727.jpg",
+            "nightSequence1--04728.jpg",
+            "nightSequence1--04729.jpg",
+            "nightSequence1--04730.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01102.jpg",
+            "nightSequence1--01103.jpg",
+            "nightSequence1--01104.jpg",
+            "nightSequence1--01105.jpg",
+            "nightSequence1--01106.jpg",
+            "nightSequence1--01107.jpg",
+            "nightSequence1--01108.jpg",
+            "nightSequence1--01109.jpg",
+            "nightSequence1--01110.jpg",
+            "nightSequence1--01111.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--04751.jpg",
+            "nightSequence1--04752.jpg",
+            "nightSequence1--04753.jpg",
+            "nightSequence1--04754.jpg",
+            "nightSequence1--04755.jpg",
+            "nightSequence1--04756.jpg",
+            "nightSequence1--04757.jpg",
+            "nightSequence1--04758.jpg",
+            "nightSequence1--04759.jpg",
+            "nightSequence1--04760.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01883.jpg",
+            "nightSequence1--01884.jpg",
+            "nightSequence1--01885.jpg",
+            "nightSequence1--01886.jpg",
+            "nightSequence1--01887.jpg",
+            "nightSequence1--01888.jpg",
+            "nightSequence1--01889.jpg",
+            "nightSequence1--01890.jpg",
+            "nightSequence1--01891.jpg",
+            "nightSequence1--01892.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02929.jpg",
+            "nightSequence1--02930.jpg",
+            "nightSequence1--02931.jpg",
+            "nightSequence1--02932.jpg",
+            "nightSequence1--02933.jpg",
+            "nightSequence1--02934.jpg",
+            "nightSequence1--02935.jpg",
+            "nightSequence1--02936.jpg",
+            "nightSequence1--02937.jpg",
+            "nightSequence1--02938.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01012.jpg",
+            "nightSequence1--01013.jpg",
+            "nightSequence1--01014.jpg",
+            "nightSequence1--01015.jpg",
+            "nightSequence1--01016.jpg",
+            "nightSequence1--01017.jpg",
+            "nightSequence1--01018.jpg",
+            "nightSequence1--01019.jpg",
+            "nightSequence1--01020.jpg",
+            "nightSequence1--01021.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03895.jpg",
+            "nightSequence1--03896.jpg",
+            "nightSequence1--03897.jpg",
+            "nightSequence1--03898.jpg",
+            "nightSequence1--03899.jpg",
+            "nightSequence1--03900.jpg",
+            "nightSequence1--03901.jpg",
+            "nightSequence1--03902.jpg",
+            "nightSequence1--03903.jpg",
+            "nightSequence1--03904.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03029.jpg",
+            "nightSequence1--03030.jpg",
+            "nightSequence1--03031.jpg",
+            "nightSequence1--03032.jpg",
+            "nightSequence1--03033.jpg",
+            "nightSequence1--03034.jpg",
+            "nightSequence1--03035.jpg",
+            "nightSequence1--03036.jpg",
+            "nightSequence1--03037.jpg",
+            "nightSequence1--03038.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--01793.jpg",
+            "nightSequence1--01794.jpg",
+            "nightSequence1--01795.jpg",
+            "nightSequence1--01796.jpg",
+            "nightSequence1--01797.jpg",
+            "nightSequence1--01798.jpg",
+            "nightSequence1--01799.jpg",
+            "nightSequence1--01800.jpg",
+            "nightSequence1--01801.jpg",
+            "nightSequence1--01802.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--02969.jpg",
+            "nightSequence1--02970.jpg",
+            "nightSequence1--02971.jpg",
+            "nightSequence1--02972.jpg",
+            "nightSequence1--02973.jpg",
+            "nightSequence1--02974.jpg",
+            "nightSequence1--02975.jpg",
+            "nightSequence1--02976.jpg",
+            "nightSequence1--02977.jpg",
+            "nightSequence1--02978.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03139.jpg",
+            "nightSequence1--03140.jpg",
+            "nightSequence1--03141.jpg",
+            "nightSequence1--03142.jpg",
+            "nightSequence1--03143.jpg",
+            "nightSequence1--03144.jpg",
+            "nightSequence1--03145.jpg",
+            "nightSequence1--03146.jpg",
+            "nightSequence1--03147.jpg",
+            "nightSequence1--03148.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "nightSequence1--03049.jpg",
+            "nightSequence1--03050.jpg",
+            "nightSequence1--03051.jpg",
+            "nightSequence1--03052.jpg",
+            "nightSequence1--03053.jpg",
+            "nightSequence1--03054.jpg",
+            "nightSequence1--03055.jpg",
+            "nightSequence1--03056.jpg",
+            "nightSequence1--03057.jpg",
+            "nightSequence1--03058.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    }
+]

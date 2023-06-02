@@ -1,0 +1,722 @@
+[
+    {
+        "images": [
+            "dayClip13--00619.jpg",
+            "dayClip13--00620.jpg",
+            "dayClip13--00621.jpg",
+            "dayClip13--00622.jpg",
+            "dayClip13--00623.jpg",
+            "dayClip13--00624.jpg",
+            "dayClip13--00625.jpg",
+            "dayClip13--00626.jpg",
+            "dayClip13--00627.jpg",
+            "dayClip13--00628.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00165.jpg",
+            "dayClip13--00166.jpg",
+            "dayClip13--00167.jpg",
+            "dayClip13--00168.jpg",
+            "dayClip13--00169.jpg",
+            "dayClip13--00170.jpg",
+            "dayClip13--00171.jpg",
+            "dayClip13--00172.jpg",
+            "dayClip13--00173.jpg",
+            "dayClip13--00174.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00480.jpg",
+            "dayClip13--00481.jpg",
+            "dayClip13--00482.jpg",
+            "dayClip13--00483.jpg",
+            "dayClip13--00484.jpg",
+            "dayClip13--00485.jpg",
+            "dayClip13--00486.jpg",
+            "dayClip13--00487.jpg",
+            "dayClip13--00488.jpg",
+            "dayClip13--00489.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00420.jpg",
+            "dayClip13--00421.jpg",
+            "dayClip13--00422.jpg",
+            "dayClip13--00423.jpg",
+            "dayClip13--00424.jpg",
+            "dayClip13--00425.jpg",
+            "dayClip13--00426.jpg",
+            "dayClip13--00427.jpg",
+            "dayClip13--00428.jpg",
+            "dayClip13--00429.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00195.jpg",
+            "dayClip13--00196.jpg",
+            "dayClip13--00197.jpg",
+            "dayClip13--00198.jpg",
+            "dayClip13--00199.jpg",
+            "dayClip13--00200.jpg",
+            "dayClip13--00201.jpg",
+            "dayClip13--00202.jpg",
+            "dayClip13--00203.jpg",
+            "dayClip13--00204.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00000.jpg",
+            "dayClip13--00001.jpg",
+            "dayClip13--00002.jpg",
+            "dayClip13--00003.jpg",
+            "dayClip13--00004.jpg",
+            "dayClip13--00005.jpg",
+            "dayClip13--00006.jpg",
+            "dayClip13--00007.jpg",
+            "dayClip13--00008.jpg",
+            "dayClip13--00009.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00510.jpg",
+            "dayClip13--00511.jpg",
+            "dayClip13--00512.jpg",
+            "dayClip13--00513.jpg",
+            "dayClip13--00514.jpg",
+            "dayClip13--00515.jpg",
+            "dayClip13--00516.jpg",
+            "dayClip13--00517.jpg",
+            "dayClip13--00518.jpg",
+            "dayClip13--00519.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00010.jpg",
+            "dayClip13--00011.jpg",
+            "dayClip13--00012.jpg",
+            "dayClip13--00013.jpg",
+            "dayClip13--00014.jpg",
+            "dayClip13--00015.jpg",
+            "dayClip13--00016.jpg",
+            "dayClip13--00017.jpg",
+            "dayClip13--00018.jpg",
+            "dayClip13--00019.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00450.jpg",
+            "dayClip13--00451.jpg",
+            "dayClip13--00452.jpg",
+            "dayClip13--00453.jpg",
+            "dayClip13--00454.jpg",
+            "dayClip13--00455.jpg",
+            "dayClip13--00456.jpg",
+            "dayClip13--00457.jpg",
+            "dayClip13--00458.jpg",
+            "dayClip13--00459.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00430.jpg",
+            "dayClip13--00431.jpg",
+            "dayClip13--00432.jpg",
+            "dayClip13--00433.jpg",
+            "dayClip13--00434.jpg",
+            "dayClip13--00435.jpg",
+            "dayClip13--00436.jpg",
+            "dayClip13--00437.jpg",
+            "dayClip13--00438.jpg",
+            "dayClip13--00439.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00410.jpg",
+            "dayClip13--00411.jpg",
+            "dayClip13--00412.jpg",
+            "dayClip13--00413.jpg",
+            "dayClip13--00414.jpg",
+            "dayClip13--00415.jpg",
+            "dayClip13--00416.jpg",
+            "dayClip13--00417.jpg",
+            "dayClip13--00418.jpg",
+            "dayClip13--00419.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00400.jpg",
+            "dayClip13--00401.jpg",
+            "dayClip13--00402.jpg",
+            "dayClip13--00403.jpg",
+            "dayClip13--00404.jpg",
+            "dayClip13--00405.jpg",
+            "dayClip13--00406.jpg",
+            "dayClip13--00407.jpg",
+            "dayClip13--00408.jpg",
+            "dayClip13--00409.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00175.jpg",
+            "dayClip13--00176.jpg",
+            "dayClip13--00177.jpg",
+            "dayClip13--00178.jpg",
+            "dayClip13--00179.jpg",
+            "dayClip13--00180.jpg",
+            "dayClip13--00181.jpg",
+            "dayClip13--00182.jpg",
+            "dayClip13--00183.jpg",
+            "dayClip13--00184.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00470.jpg",
+            "dayClip13--00471.jpg",
+            "dayClip13--00472.jpg",
+            "dayClip13--00473.jpg",
+            "dayClip13--00474.jpg",
+            "dayClip13--00475.jpg",
+            "dayClip13--00476.jpg",
+            "dayClip13--00477.jpg",
+            "dayClip13--00478.jpg",
+            "dayClip13--00479.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00520.jpg",
+            "dayClip13--00521.jpg",
+            "dayClip13--00522.jpg",
+            "dayClip13--00523.jpg",
+            "dayClip13--00524.jpg",
+            "dayClip13--00525.jpg",
+            "dayClip13--00526.jpg",
+            "dayClip13--00527.jpg",
+            "dayClip13--00528.jpg",
+            "dayClip13--00529.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00185.jpg",
+            "dayClip13--00186.jpg",
+            "dayClip13--00187.jpg",
+            "dayClip13--00188.jpg",
+            "dayClip13--00189.jpg",
+            "dayClip13--00190.jpg",
+            "dayClip13--00191.jpg",
+            "dayClip13--00192.jpg",
+            "dayClip13--00193.jpg",
+            "dayClip13--00194.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00570.jpg",
+            "dayClip13--00571.jpg",
+            "dayClip13--00572.jpg",
+            "dayClip13--00573.jpg",
+            "dayClip13--00574.jpg",
+            "dayClip13--00575.jpg",
+            "dayClip13--00576.jpg",
+            "dayClip13--00577.jpg",
+            "dayClip13--00578.jpg",
+            "dayClip13--00579.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00599.jpg",
+            "dayClip13--00600.jpg",
+            "dayClip13--00601.jpg",
+            "dayClip13--00602.jpg",
+            "dayClip13--00603.jpg",
+            "dayClip13--00604.jpg",
+            "dayClip13--00605.jpg",
+            "dayClip13--00606.jpg",
+            "dayClip13--00607.jpg",
+            "dayClip13--00608.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00669.jpg",
+            "dayClip13--00670.jpg",
+            "dayClip13--00671.jpg",
+            "dayClip13--00672.jpg",
+            "dayClip13--00673.jpg",
+            "dayClip13--00674.jpg",
+            "dayClip13--00675.jpg",
+            "dayClip13--00676.jpg",
+            "dayClip13--00677.jpg",
+            "dayClip13--00678.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00530.jpg",
+            "dayClip13--00531.jpg",
+            "dayClip13--00532.jpg",
+            "dayClip13--00533.jpg",
+            "dayClip13--00534.jpg",
+            "dayClip13--00535.jpg",
+            "dayClip13--00536.jpg",
+            "dayClip13--00537.jpg",
+            "dayClip13--00538.jpg",
+            "dayClip13--00539.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00380.jpg",
+            "dayClip13--00381.jpg",
+            "dayClip13--00382.jpg",
+            "dayClip13--00383.jpg",
+            "dayClip13--00384.jpg",
+            "dayClip13--00385.jpg",
+            "dayClip13--00386.jpg",
+            "dayClip13--00387.jpg",
+            "dayClip13--00388.jpg",
+            "dayClip13--00389.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00629.jpg",
+            "dayClip13--00630.jpg",
+            "dayClip13--00631.jpg",
+            "dayClip13--00632.jpg",
+            "dayClip13--00633.jpg",
+            "dayClip13--00634.jpg",
+            "dayClip13--00635.jpg",
+            "dayClip13--00636.jpg",
+            "dayClip13--00637.jpg",
+            "dayClip13--00638.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00580.jpg",
+            "dayClip13--00581.jpg",
+            "dayClip13--00582.jpg",
+            "dayClip13--00583.jpg",
+            "dayClip13--00584.jpg",
+            "dayClip13--00585.jpg",
+            "dayClip13--00586.jpg",
+            "dayClip13--00587.jpg",
+            "dayClip13--00588.jpg",
+            "dayClip13--00589.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00390.jpg",
+            "dayClip13--00391.jpg",
+            "dayClip13--00392.jpg",
+            "dayClip13--00393.jpg",
+            "dayClip13--00394.jpg",
+            "dayClip13--00395.jpg",
+            "dayClip13--00396.jpg",
+            "dayClip13--00397.jpg",
+            "dayClip13--00398.jpg",
+            "dayClip13--00399.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00540.jpg",
+            "dayClip13--00541.jpg",
+            "dayClip13--00542.jpg",
+            "dayClip13--00543.jpg",
+            "dayClip13--00544.jpg",
+            "dayClip13--00545.jpg",
+            "dayClip13--00546.jpg",
+            "dayClip13--00547.jpg",
+            "dayClip13--00548.jpg",
+            "dayClip13--00549.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00440.jpg",
+            "dayClip13--00441.jpg",
+            "dayClip13--00442.jpg",
+            "dayClip13--00443.jpg",
+            "dayClip13--00444.jpg",
+            "dayClip13--00445.jpg",
+            "dayClip13--00446.jpg",
+            "dayClip13--00447.jpg",
+            "dayClip13--00448.jpg",
+            "dayClip13--00449.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00639.jpg",
+            "dayClip13--00640.jpg",
+            "dayClip13--00641.jpg",
+            "dayClip13--00642.jpg",
+            "dayClip13--00643.jpg",
+            "dayClip13--00644.jpg",
+            "dayClip13--00645.jpg",
+            "dayClip13--00646.jpg",
+            "dayClip13--00647.jpg",
+            "dayClip13--00648.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00550.jpg",
+            "dayClip13--00551.jpg",
+            "dayClip13--00552.jpg",
+            "dayClip13--00553.jpg",
+            "dayClip13--00554.jpg",
+            "dayClip13--00555.jpg",
+            "dayClip13--00556.jpg",
+            "dayClip13--00557.jpg",
+            "dayClip13--00558.jpg",
+            "dayClip13--00559.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00500.jpg",
+            "dayClip13--00501.jpg",
+            "dayClip13--00502.jpg",
+            "dayClip13--00503.jpg",
+            "dayClip13--00504.jpg",
+            "dayClip13--00505.jpg",
+            "dayClip13--00506.jpg",
+            "dayClip13--00507.jpg",
+            "dayClip13--00508.jpg",
+            "dayClip13--00509.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00370.jpg",
+            "dayClip13--00371.jpg",
+            "dayClip13--00372.jpg",
+            "dayClip13--00373.jpg",
+            "dayClip13--00374.jpg",
+            "dayClip13--00375.jpg",
+            "dayClip13--00376.jpg",
+            "dayClip13--00377.jpg",
+            "dayClip13--00378.jpg",
+            "dayClip13--00379.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00460.jpg",
+            "dayClip13--00461.jpg",
+            "dayClip13--00462.jpg",
+            "dayClip13--00463.jpg",
+            "dayClip13--00464.jpg",
+            "dayClip13--00465.jpg",
+            "dayClip13--00466.jpg",
+            "dayClip13--00467.jpg",
+            "dayClip13--00468.jpg",
+            "dayClip13--00469.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00490.jpg",
+            "dayClip13--00491.jpg",
+            "dayClip13--00492.jpg",
+            "dayClip13--00493.jpg",
+            "dayClip13--00494.jpg",
+            "dayClip13--00495.jpg",
+            "dayClip13--00496.jpg",
+            "dayClip13--00497.jpg",
+            "dayClip13--00498.jpg",
+            "dayClip13--00499.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00609.jpg",
+            "dayClip13--00610.jpg",
+            "dayClip13--00611.jpg",
+            "dayClip13--00612.jpg",
+            "dayClip13--00613.jpg",
+            "dayClip13--00614.jpg",
+            "dayClip13--00615.jpg",
+            "dayClip13--00616.jpg",
+            "dayClip13--00617.jpg",
+            "dayClip13--00618.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00560.jpg",
+            "dayClip13--00561.jpg",
+            "dayClip13--00562.jpg",
+            "dayClip13--00563.jpg",
+            "dayClip13--00564.jpg",
+            "dayClip13--00565.jpg",
+            "dayClip13--00566.jpg",
+            "dayClip13--00567.jpg",
+            "dayClip13--00568.jpg",
+            "dayClip13--00569.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00659.jpg",
+            "dayClip13--00660.jpg",
+            "dayClip13--00661.jpg",
+            "dayClip13--00662.jpg",
+            "dayClip13--00663.jpg",
+            "dayClip13--00664.jpg",
+            "dayClip13--00665.jpg",
+            "dayClip13--00666.jpg",
+            "dayClip13--00667.jpg",
+            "dayClip13--00668.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "dayClip13--00649.jpg",
+            "dayClip13--00650.jpg",
+            "dayClip13--00651.jpg",
+            "dayClip13--00652.jpg",
+            "dayClip13--00653.jpg",
+            "dayClip13--00654.jpg",
+            "dayClip13--00655.jpg",
+            "dayClip13--00656.jpg",
+            "dayClip13--00657.jpg",
+            "dayClip13--00658.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+{
+    "model_name": "LightFormerPredictor",
+    "image_num": 10,
+    "embed_dim": 256,
+    "num_heads": 8,
+    "num_sam_pts": 8,
+    "num_levels": 1,
+    "num_query": 1,
+    "log_every_n_steps": 50,
+    "mlp_out_channel": 1024,
+    "n" : 20,
+    "out_class_num" : 2,
+    "training": {
+        "sample_database_folder": [
+            "/workspace/debug/data/Kaggle_Dataset/nightSequence2/nightSequence2/train",
+            "/workspace/debug/data/Kaggle_Dataset/nightTrain/nightTrain/nightClip1/train",
+            "/workspace/debug/data/Kaggle_Dataset/nightTrain/nightTrain/nightClip2/train",
+            "/workspace/debug/data/Kaggle_Dataset/nightTrain/nightTrain/nightClip3/train",
+            "/workspace/debug/data/Kaggle_Dataset/nightTrain/nightTrain/nightClip4/train",
+            "/workspace/debug/data/Kaggle_Dataset/nightTrain/nightTrain/nightClip5/train"
+        ],
+        "batch_size": 2,
+        "loader_worker_num": 20,
+        "epoch": 25
+    },
+    "validation": {
+        "sample_database_folder": [
+            "/workspace/debug/data/Kaggle_Dataset/nightSequence1/nightSequence1/train"
+        ],
+        "batch_size": 2,
+        "loader_worker_num": 20,
+        "check_interval": 1,
+        "limit_batches": 1
+    },
+    "test": {
+        "sample_database_folder": [
+            "/workspace/debug/data/Kaggle_Dataset/nightSequence1/nightSequence1/train"
+        ],
+        "batch_size": 1,
+        "loader_worker_num": 20,
+        "visualization": false,
+        "test_result_pkl_dir": "/workspace/debug/pred_res"
+    },
+    "optim": {
+        "init_lr": 0.0001,
+        "step_size": 3,
+        "step_factor": 0.5,
+        "gradient_clip_val": null,
+        "gradient_clip_algorithm": "norm"
+    }
+}

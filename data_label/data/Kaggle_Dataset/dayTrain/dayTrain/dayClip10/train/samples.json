@@ -1,0 +1,42 @@
+[
+    {
+        "images": [
+            "dayClip10--00000.jpg",
+            "dayClip10--00001.jpg",
+            "dayClip10--00002.jpg",
+            "dayClip10--00003.jpg",
+            "dayClip10--00004.jpg",
+            "dayClip10--00005.jpg",
+            "dayClip10--00006.jpg",
+            "dayClip10--00007.jpg",
+            "dayClip10--00008.jpg",
+            "dayClip10--00009.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "dayClip10--00010.jpg",
+            "dayClip10--00011.jpg",
+            "dayClip10--00012.jpg",
+            "dayClip10--00013.jpg",
+            "dayClip10--00014.jpg",
+            "dayClip10--00015.jpg",
+            "dayClip10--00016.jpg",
+            "dayClip10--00017.jpg",
+            "dayClip10--00018.jpg",
+            "dayClip10--00019.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            0,
+            1
+        ]
+    }
+]

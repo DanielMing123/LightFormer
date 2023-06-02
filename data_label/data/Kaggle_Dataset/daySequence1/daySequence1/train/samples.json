@@ -1,0 +1,4042 @@
+[
+    {
+        "images": [
+            "daySequence1--02135.jpg",
+            "daySequence1--02136.jpg",
+            "daySequence1--02137.jpg",
+            "daySequence1--02138.jpg",
+            "daySequence1--02139.jpg",
+            "daySequence1--02140.jpg",
+            "daySequence1--02141.jpg",
+            "daySequence1--02142.jpg",
+            "daySequence1--02143.jpg",
+            "daySequence1--02144.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01298.jpg",
+            "daySequence1--01299.jpg",
+            "daySequence1--01300.jpg",
+            "daySequence1--01301.jpg",
+            "daySequence1--01302.jpg",
+            "daySequence1--01303.jpg",
+            "daySequence1--01304.jpg",
+            "daySequence1--01305.jpg",
+            "daySequence1--01306.jpg",
+            "daySequence1--01307.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02075.jpg",
+            "daySequence1--02076.jpg",
+            "daySequence1--02077.jpg",
+            "daySequence1--02078.jpg",
+            "daySequence1--02079.jpg",
+            "daySequence1--02080.jpg",
+            "daySequence1--02081.jpg",
+            "daySequence1--02082.jpg",
+            "daySequence1--02083.jpg",
+            "daySequence1--02084.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02475.jpg",
+            "daySequence1--02476.jpg",
+            "daySequence1--02477.jpg",
+            "daySequence1--02478.jpg",
+            "daySequence1--02479.jpg",
+            "daySequence1--02480.jpg",
+            "daySequence1--02481.jpg",
+            "daySequence1--02482.jpg",
+            "daySequence1--02483.jpg",
+            "daySequence1--02484.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01995.jpg",
+            "daySequence1--01996.jpg",
+            "daySequence1--01997.jpg",
+            "daySequence1--01998.jpg",
+            "daySequence1--01999.jpg",
+            "daySequence1--02000.jpg",
+            "daySequence1--02001.jpg",
+            "daySequence1--02002.jpg",
+            "daySequence1--02003.jpg",
+            "daySequence1--02004.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02305.jpg",
+            "daySequence1--02306.jpg",
+            "daySequence1--02307.jpg",
+            "daySequence1--02308.jpg",
+            "daySequence1--02309.jpg",
+            "daySequence1--02310.jpg",
+            "daySequence1--02311.jpg",
+            "daySequence1--02312.jpg",
+            "daySequence1--02313.jpg",
+            "daySequence1--02314.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03930.jpg",
+            "daySequence1--03931.jpg",
+            "daySequence1--03932.jpg",
+            "daySequence1--03933.jpg",
+            "daySequence1--03934.jpg",
+            "daySequence1--03935.jpg",
+            "daySequence1--03936.jpg",
+            "daySequence1--03937.jpg",
+            "daySequence1--03938.jpg",
+            "daySequence1--03939.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00271.jpg",
+            "daySequence1--00272.jpg",
+            "daySequence1--00273.jpg",
+            "daySequence1--00274.jpg",
+            "daySequence1--00275.jpg",
+            "daySequence1--00276.jpg",
+            "daySequence1--00277.jpg",
+            "daySequence1--00278.jpg",
+            "daySequence1--00279.jpg",
+            "daySequence1--00280.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03364.jpg",
+            "daySequence1--03365.jpg",
+            "daySequence1--03366.jpg",
+            "daySequence1--03367.jpg",
+            "daySequence1--03368.jpg",
+            "daySequence1--03369.jpg",
+            "daySequence1--03370.jpg",
+            "daySequence1--03371.jpg",
+            "daySequence1--03372.jpg",
+            "daySequence1--03373.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01925.jpg",
+            "daySequence1--01926.jpg",
+            "daySequence1--01927.jpg",
+            "daySequence1--01928.jpg",
+            "daySequence1--01929.jpg",
+            "daySequence1--01930.jpg",
+            "daySequence1--01931.jpg",
+            "daySequence1--01932.jpg",
+            "daySequence1--01933.jpg",
+            "daySequence1--01934.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01168.jpg",
+            "daySequence1--01169.jpg",
+            "daySequence1--01170.jpg",
+            "daySequence1--01171.jpg",
+            "daySequence1--01172.jpg",
+            "daySequence1--01173.jpg",
+            "daySequence1--01174.jpg",
+            "daySequence1--01175.jpg",
+            "daySequence1--01176.jpg",
+            "daySequence1--01177.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00988.jpg",
+            "daySequence1--00989.jpg",
+            "daySequence1--00990.jpg",
+            "daySequence1--00991.jpg",
+            "daySequence1--00992.jpg",
+            "daySequence1--00993.jpg",
+            "daySequence1--00994.jpg",
+            "daySequence1--00995.jpg",
+            "daySequence1--00996.jpg",
+            "daySequence1--00997.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01975.jpg",
+            "daySequence1--01976.jpg",
+            "daySequence1--01977.jpg",
+            "daySequence1--01978.jpg",
+            "daySequence1--01979.jpg",
+            "daySequence1--01980.jpg",
+            "daySequence1--01981.jpg",
+            "daySequence1--01982.jpg",
+            "daySequence1--01983.jpg",
+            "daySequence1--01984.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02285.jpg",
+            "daySequence1--02286.jpg",
+            "daySequence1--02287.jpg",
+            "daySequence1--02288.jpg",
+            "daySequence1--02289.jpg",
+            "daySequence1--02290.jpg",
+            "daySequence1--02291.jpg",
+            "daySequence1--02292.jpg",
+            "daySequence1--02293.jpg",
+            "daySequence1--02294.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01338.jpg",
+            "daySequence1--01339.jpg",
+            "daySequence1--01340.jpg",
+            "daySequence1--01341.jpg",
+            "daySequence1--01342.jpg",
+            "daySequence1--01343.jpg",
+            "daySequence1--01344.jpg",
+            "daySequence1--01345.jpg",
+            "daySequence1--01346.jpg",
+            "daySequence1--01347.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02465.jpg",
+            "daySequence1--02466.jpg",
+            "daySequence1--02467.jpg",
+            "daySequence1--02468.jpg",
+            "daySequence1--02469.jpg",
+            "daySequence1--02470.jpg",
+            "daySequence1--02471.jpg",
+            "daySequence1--02472.jpg",
+            "daySequence1--02473.jpg",
+            "daySequence1--02474.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02812.jpg",
+            "daySequence1--02813.jpg",
+            "daySequence1--02814.jpg",
+            "daySequence1--02815.jpg",
+            "daySequence1--02816.jpg",
+            "daySequence1--02817.jpg",
+            "daySequence1--02818.jpg",
+            "daySequence1--02819.jpg",
+            "daySequence1--02820.jpg",
+            "daySequence1--02821.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01048.jpg",
+            "daySequence1--01049.jpg",
+            "daySequence1--01050.jpg",
+            "daySequence1--01051.jpg",
+            "daySequence1--01052.jpg",
+            "daySequence1--01053.jpg",
+            "daySequence1--01054.jpg",
+            "daySequence1--01055.jpg",
+            "daySequence1--01056.jpg",
+            "daySequence1--01057.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02772.jpg",
+            "daySequence1--02773.jpg",
+            "daySequence1--02774.jpg",
+            "daySequence1--02775.jpg",
+            "daySequence1--02776.jpg",
+            "daySequence1--02777.jpg",
+            "daySequence1--02778.jpg",
+            "daySequence1--02779.jpg",
+            "daySequence1--02780.jpg",
+            "daySequence1--02781.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00140.jpg",
+            "daySequence1--00141.jpg",
+            "daySequence1--00142.jpg",
+            "daySequence1--00143.jpg",
+            "daySequence1--00144.jpg",
+            "daySequence1--00145.jpg",
+            "daySequence1--00146.jpg",
+            "daySequence1--00147.jpg",
+            "daySequence1--00148.jpg",
+            "daySequence1--00149.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02005.jpg",
+            "daySequence1--02006.jpg",
+            "daySequence1--02007.jpg",
+            "daySequence1--02008.jpg",
+            "daySequence1--02009.jpg",
+            "daySequence1--02010.jpg",
+            "daySequence1--02011.jpg",
+            "daySequence1--02012.jpg",
+            "daySequence1--02013.jpg",
+            "daySequence1--02014.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02315.jpg",
+            "daySequence1--02316.jpg",
+            "daySequence1--02317.jpg",
+            "daySequence1--02318.jpg",
+            "daySequence1--02319.jpg",
+            "daySequence1--02320.jpg",
+            "daySequence1--02321.jpg",
+            "daySequence1--02322.jpg",
+            "daySequence1--02323.jpg",
+            "daySequence1--02324.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00251.jpg",
+            "daySequence1--00252.jpg",
+            "daySequence1--00253.jpg",
+            "daySequence1--00254.jpg",
+            "daySequence1--00255.jpg",
+            "daySequence1--00256.jpg",
+            "daySequence1--00257.jpg",
+            "daySequence1--00258.jpg",
+            "daySequence1--00259.jpg",
+            "daySequence1--00260.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00924.jpg",
+            "daySequence1--00925.jpg",
+            "daySequence1--00926.jpg",
+            "daySequence1--00927.jpg",
+            "daySequence1--00928.jpg",
+            "daySequence1--00929.jpg",
+            "daySequence1--00930.jpg",
+            "daySequence1--00931.jpg",
+            "daySequence1--00932.jpg",
+            "daySequence1--00933.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02255.jpg",
+            "daySequence1--02256.jpg",
+            "daySequence1--02257.jpg",
+            "daySequence1--02258.jpg",
+            "daySequence1--02259.jpg",
+            "daySequence1--02260.jpg",
+            "daySequence1--02261.jpg",
+            "daySequence1--02262.jpg",
+            "daySequence1--02263.jpg",
+            "daySequence1--02264.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03354.jpg",
+            "daySequence1--03355.jpg",
+            "daySequence1--03356.jpg",
+            "daySequence1--03357.jpg",
+            "daySequence1--03358.jpg",
+            "daySequence1--03359.jpg",
+            "daySequence1--03360.jpg",
+            "daySequence1--03361.jpg",
+            "daySequence1--03362.jpg",
+            "daySequence1--03363.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01088.jpg",
+            "daySequence1--01089.jpg",
+            "daySequence1--01090.jpg",
+            "daySequence1--01091.jpg",
+            "daySequence1--01092.jpg",
+            "daySequence1--01093.jpg",
+            "daySequence1--01094.jpg",
+            "daySequence1--01095.jpg",
+            "daySequence1--01096.jpg",
+            "daySequence1--01097.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00714.jpg",
+            "daySequence1--00715.jpg",
+            "daySequence1--00716.jpg",
+            "daySequence1--00717.jpg",
+            "daySequence1--00718.jpg",
+            "daySequence1--00719.jpg",
+            "daySequence1--00720.jpg",
+            "daySequence1--00721.jpg",
+            "daySequence1--00722.jpg",
+            "daySequence1--00723.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00824.jpg",
+            "daySequence1--00825.jpg",
+            "daySequence1--00826.jpg",
+            "daySequence1--00827.jpg",
+            "daySequence1--00828.jpg",
+            "daySequence1--00829.jpg",
+            "daySequence1--00830.jpg",
+            "daySequence1--00831.jpg",
+            "daySequence1--00832.jpg",
+            "daySequence1--00833.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02015.jpg",
+            "daySequence1--02016.jpg",
+            "daySequence1--02017.jpg",
+            "daySequence1--02018.jpg",
+            "daySequence1--02019.jpg",
+            "daySequence1--02020.jpg",
+            "daySequence1--02021.jpg",
+            "daySequence1--02022.jpg",
+            "daySequence1--02023.jpg",
+            "daySequence1--02024.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00351.jpg",
+            "daySequence1--00352.jpg",
+            "daySequence1--00353.jpg",
+            "daySequence1--00354.jpg",
+            "daySequence1--00355.jpg",
+            "daySequence1--00356.jpg",
+            "daySequence1--00357.jpg",
+            "daySequence1--00358.jpg",
+            "daySequence1--00359.jpg",
+            "daySequence1--00360.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02035.jpg",
+            "daySequence1--02036.jpg",
+            "daySequence1--02037.jpg",
+            "daySequence1--02038.jpg",
+            "daySequence1--02039.jpg",
+            "daySequence1--02040.jpg",
+            "daySequence1--02041.jpg",
+            "daySequence1--02042.jpg",
+            "daySequence1--02043.jpg",
+            "daySequence1--02044.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02335.jpg",
+            "daySequence1--02336.jpg",
+            "daySequence1--02337.jpg",
+            "daySequence1--02338.jpg",
+            "daySequence1--02339.jpg",
+            "daySequence1--02340.jpg",
+            "daySequence1--02341.jpg",
+            "daySequence1--02342.jpg",
+            "daySequence1--02343.jpg",
+            "daySequence1--02344.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02375.jpg",
+            "daySequence1--02376.jpg",
+            "daySequence1--02377.jpg",
+            "daySequence1--02378.jpg",
+            "daySequence1--02379.jpg",
+            "daySequence1--02380.jpg",
+            "daySequence1--02381.jpg",
+            "daySequence1--02382.jpg",
+            "daySequence1--02383.jpg",
+            "daySequence1--02384.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02145.jpg",
+            "daySequence1--02146.jpg",
+            "daySequence1--02147.jpg",
+            "daySequence1--02148.jpg",
+            "daySequence1--02149.jpg",
+            "daySequence1--02150.jpg",
+            "daySequence1--02151.jpg",
+            "daySequence1--02152.jpg",
+            "daySequence1--02153.jpg",
+            "daySequence1--02154.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01148.jpg",
+            "daySequence1--01149.jpg",
+            "daySequence1--01150.jpg",
+            "daySequence1--01151.jpg",
+            "daySequence1--01152.jpg",
+            "daySequence1--01153.jpg",
+            "daySequence1--01154.jpg",
+            "daySequence1--01155.jpg",
+            "daySequence1--01156.jpg",
+            "daySequence1--01157.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01308.jpg",
+            "daySequence1--01309.jpg",
+            "daySequence1--01310.jpg",
+            "daySequence1--01311.jpg",
+            "daySequence1--01312.jpg",
+            "daySequence1--01313.jpg",
+            "daySequence1--01314.jpg",
+            "daySequence1--01315.jpg",
+            "daySequence1--01316.jpg",
+            "daySequence1--01317.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00654.jpg",
+            "daySequence1--00655.jpg",
+            "daySequence1--00656.jpg",
+            "daySequence1--00657.jpg",
+            "daySequence1--00658.jpg",
+            "daySequence1--00659.jpg",
+            "daySequence1--00660.jpg",
+            "daySequence1--00661.jpg",
+            "daySequence1--00662.jpg",
+            "daySequence1--00663.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02832.jpg",
+            "daySequence1--02833.jpg",
+            "daySequence1--02834.jpg",
+            "daySequence1--02835.jpg",
+            "daySequence1--02836.jpg",
+            "daySequence1--02837.jpg",
+            "daySequence1--02838.jpg",
+            "daySequence1--02839.jpg",
+            "daySequence1--02840.jpg",
+            "daySequence1--02841.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01108.jpg",
+            "daySequence1--01109.jpg",
+            "daySequence1--01110.jpg",
+            "daySequence1--01111.jpg",
+            "daySequence1--01112.jpg",
+            "daySequence1--01113.jpg",
+            "daySequence1--01114.jpg",
+            "daySequence1--01115.jpg",
+            "daySequence1--01116.jpg",
+            "daySequence1--01117.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02435.jpg",
+            "daySequence1--02436.jpg",
+            "daySequence1--02437.jpg",
+            "daySequence1--02438.jpg",
+            "daySequence1--02439.jpg",
+            "daySequence1--02440.jpg",
+            "daySequence1--02441.jpg",
+            "daySequence1--02442.jpg",
+            "daySequence1--02443.jpg",
+            "daySequence1--02444.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01038.jpg",
+            "daySequence1--01039.jpg",
+            "daySequence1--01040.jpg",
+            "daySequence1--01041.jpg",
+            "daySequence1--01042.jpg",
+            "daySequence1--01043.jpg",
+            "daySequence1--01044.jpg",
+            "daySequence1--01045.jpg",
+            "daySequence1--01046.jpg",
+            "daySequence1--01047.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00170.jpg",
+            "daySequence1--00171.jpg",
+            "daySequence1--00172.jpg",
+            "daySequence1--00173.jpg",
+            "daySequence1--00174.jpg",
+            "daySequence1--00175.jpg",
+            "daySequence1--00176.jpg",
+            "daySequence1--00177.jpg",
+            "daySequence1--00178.jpg",
+            "daySequence1--00179.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02762.jpg",
+            "daySequence1--02763.jpg",
+            "daySequence1--02764.jpg",
+            "daySequence1--02765.jpg",
+            "daySequence1--02766.jpg",
+            "daySequence1--02767.jpg",
+            "daySequence1--02768.jpg",
+            "daySequence1--02769.jpg",
+            "daySequence1--02770.jpg",
+            "daySequence1--02771.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03050.jpg",
+            "daySequence1--03051.jpg",
+            "daySequence1--03052.jpg",
+            "daySequence1--03053.jpg",
+            "daySequence1--03054.jpg",
+            "daySequence1--03055.jpg",
+            "daySequence1--03056.jpg",
+            "daySequence1--03057.jpg",
+            "daySequence1--03058.jpg",
+            "daySequence1--03059.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03424.jpg",
+            "daySequence1--03425.jpg",
+            "daySequence1--03426.jpg",
+            "daySequence1--03427.jpg",
+            "daySequence1--03428.jpg",
+            "daySequence1--03429.jpg",
+            "daySequence1--03430.jpg",
+            "daySequence1--03431.jpg",
+            "daySequence1--03432.jpg",
+            "daySequence1--03433.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01935.jpg",
+            "daySequence1--01936.jpg",
+            "daySequence1--01937.jpg",
+            "daySequence1--01938.jpg",
+            "daySequence1--01939.jpg",
+            "daySequence1--01940.jpg",
+            "daySequence1--01941.jpg",
+            "daySequence1--01942.jpg",
+            "daySequence1--01943.jpg",
+            "daySequence1--01944.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02185.jpg",
+            "daySequence1--02186.jpg",
+            "daySequence1--02187.jpg",
+            "daySequence1--02188.jpg",
+            "daySequence1--02189.jpg",
+            "daySequence1--02190.jpg",
+            "daySequence1--02191.jpg",
+            "daySequence1--02192.jpg",
+            "daySequence1--02193.jpg",
+            "daySequence1--02194.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02455.jpg",
+            "daySequence1--02456.jpg",
+            "daySequence1--02457.jpg",
+            "daySequence1--02458.jpg",
+            "daySequence1--02459.jpg",
+            "daySequence1--02460.jpg",
+            "daySequence1--02461.jpg",
+            "daySequence1--02462.jpg",
+            "daySequence1--02463.jpg",
+            "daySequence1--02464.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02205.jpg",
+            "daySequence1--02206.jpg",
+            "daySequence1--02207.jpg",
+            "daySequence1--02208.jpg",
+            "daySequence1--02209.jpg",
+            "daySequence1--02210.jpg",
+            "daySequence1--02211.jpg",
+            "daySequence1--02212.jpg",
+            "daySequence1--02213.jpg",
+            "daySequence1--02214.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01915.jpg",
+            "daySequence1--01916.jpg",
+            "daySequence1--01917.jpg",
+            "daySequence1--01918.jpg",
+            "daySequence1--01919.jpg",
+            "daySequence1--01920.jpg",
+            "daySequence1--01921.jpg",
+            "daySequence1--01922.jpg",
+            "daySequence1--01923.jpg",
+            "daySequence1--01924.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03910.jpg",
+            "daySequence1--03911.jpg",
+            "daySequence1--03912.jpg",
+            "daySequence1--03913.jpg",
+            "daySequence1--03914.jpg",
+            "daySequence1--03915.jpg",
+            "daySequence1--03916.jpg",
+            "daySequence1--03917.jpg",
+            "daySequence1--03918.jpg",
+            "daySequence1--03919.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01188.jpg",
+            "daySequence1--01189.jpg",
+            "daySequence1--01190.jpg",
+            "daySequence1--01191.jpg",
+            "daySequence1--01192.jpg",
+            "daySequence1--01193.jpg",
+            "daySequence1--01194.jpg",
+            "daySequence1--01195.jpg",
+            "daySequence1--01196.jpg",
+            "daySequence1--01197.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00844.jpg",
+            "daySequence1--00845.jpg",
+            "daySequence1--00846.jpg",
+            "daySequence1--00847.jpg",
+            "daySequence1--00848.jpg",
+            "daySequence1--00849.jpg",
+            "daySequence1--00850.jpg",
+            "daySequence1--00851.jpg",
+            "daySequence1--00852.jpg",
+            "daySequence1--00853.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00331.jpg",
+            "daySequence1--00332.jpg",
+            "daySequence1--00333.jpg",
+            "daySequence1--00334.jpg",
+            "daySequence1--00335.jpg",
+            "daySequence1--00336.jpg",
+            "daySequence1--00337.jpg",
+            "daySequence1--00338.jpg",
+            "daySequence1--00339.jpg",
+            "daySequence1--00340.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00874.jpg",
+            "daySequence1--00875.jpg",
+            "daySequence1--00876.jpg",
+            "daySequence1--00877.jpg",
+            "daySequence1--00878.jpg",
+            "daySequence1--00879.jpg",
+            "daySequence1--00880.jpg",
+            "daySequence1--00881.jpg",
+            "daySequence1--00882.jpg",
+            "daySequence1--00883.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01955.jpg",
+            "daySequence1--01956.jpg",
+            "daySequence1--01957.jpg",
+            "daySequence1--01958.jpg",
+            "daySequence1--01959.jpg",
+            "daySequence1--01960.jpg",
+            "daySequence1--01961.jpg",
+            "daySequence1--01962.jpg",
+            "daySequence1--01963.jpg",
+            "daySequence1--01964.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00774.jpg",
+            "daySequence1--00775.jpg",
+            "daySequence1--00776.jpg",
+            "daySequence1--00777.jpg",
+            "daySequence1--00778.jpg",
+            "daySequence1--00779.jpg",
+            "daySequence1--00780.jpg",
+            "daySequence1--00781.jpg",
+            "daySequence1--00782.jpg",
+            "daySequence1--00783.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02722.jpg",
+            "daySequence1--02723.jpg",
+            "daySequence1--02724.jpg",
+            "daySequence1--02725.jpg",
+            "daySequence1--02726.jpg",
+            "daySequence1--02727.jpg",
+            "daySequence1--02728.jpg",
+            "daySequence1--02729.jpg",
+            "daySequence1--02730.jpg",
+            "daySequence1--02731.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02558.jpg",
+            "daySequence1--02559.jpg",
+            "daySequence1--02560.jpg",
+            "daySequence1--02561.jpg",
+            "daySequence1--02562.jpg",
+            "daySequence1--02563.jpg",
+            "daySequence1--02564.jpg",
+            "daySequence1--02565.jpg",
+            "daySequence1--02566.jpg",
+            "daySequence1--02567.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01248.jpg",
+            "daySequence1--01249.jpg",
+            "daySequence1--01250.jpg",
+            "daySequence1--01251.jpg",
+            "daySequence1--01252.jpg",
+            "daySequence1--01253.jpg",
+            "daySequence1--01254.jpg",
+            "daySequence1--01255.jpg",
+            "daySequence1--01256.jpg",
+            "daySequence1--01257.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01078.jpg",
+            "daySequence1--01079.jpg",
+            "daySequence1--01080.jpg",
+            "daySequence1--01081.jpg",
+            "daySequence1--01082.jpg",
+            "daySequence1--01083.jpg",
+            "daySequence1--01084.jpg",
+            "daySequence1--01085.jpg",
+            "daySequence1--01086.jpg",
+            "daySequence1--01087.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02405.jpg",
+            "daySequence1--02406.jpg",
+            "daySequence1--02407.jpg",
+            "daySequence1--02408.jpg",
+            "daySequence1--02409.jpg",
+            "daySequence1--02410.jpg",
+            "daySequence1--02411.jpg",
+            "daySequence1--02412.jpg",
+            "daySequence1--02413.jpg",
+            "daySequence1--02414.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00944.jpg",
+            "daySequence1--00945.jpg",
+            "daySequence1--00946.jpg",
+            "daySequence1--00947.jpg",
+            "daySequence1--00948.jpg",
+            "daySequence1--00949.jpg",
+            "daySequence1--00950.jpg",
+            "daySequence1--00951.jpg",
+            "daySequence1--00952.jpg",
+            "daySequence1--00953.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03040.jpg",
+            "daySequence1--03041.jpg",
+            "daySequence1--03042.jpg",
+            "daySequence1--03043.jpg",
+            "daySequence1--03044.jpg",
+            "daySequence1--03045.jpg",
+            "daySequence1--03046.jpg",
+            "daySequence1--03047.jpg",
+            "daySequence1--03048.jpg",
+            "daySequence1--03049.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01905.jpg",
+            "daySequence1--01906.jpg",
+            "daySequence1--01907.jpg",
+            "daySequence1--01908.jpg",
+            "daySequence1--01909.jpg",
+            "daySequence1--01910.jpg",
+            "daySequence1--01911.jpg",
+            "daySequence1--01912.jpg",
+            "daySequence1--01913.jpg",
+            "daySequence1--01914.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03394.jpg",
+            "daySequence1--03395.jpg",
+            "daySequence1--03396.jpg",
+            "daySequence1--03397.jpg",
+            "daySequence1--03398.jpg",
+            "daySequence1--03399.jpg",
+            "daySequence1--03400.jpg",
+            "daySequence1--03401.jpg",
+            "daySequence1--03402.jpg",
+            "daySequence1--03403.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00684.jpg",
+            "daySequence1--00685.jpg",
+            "daySequence1--00686.jpg",
+            "daySequence1--00687.jpg",
+            "daySequence1--00688.jpg",
+            "daySequence1--00689.jpg",
+            "daySequence1--00690.jpg",
+            "daySequence1--00691.jpg",
+            "daySequence1--00692.jpg",
+            "daySequence1--00693.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01945.jpg",
+            "daySequence1--01946.jpg",
+            "daySequence1--01947.jpg",
+            "daySequence1--01948.jpg",
+            "daySequence1--01949.jpg",
+            "daySequence1--01950.jpg",
+            "daySequence1--01951.jpg",
+            "daySequence1--01952.jpg",
+            "daySequence1--01953.jpg",
+            "daySequence1--01954.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02385.jpg",
+            "daySequence1--02386.jpg",
+            "daySequence1--02387.jpg",
+            "daySequence1--02388.jpg",
+            "daySequence1--02389.jpg",
+            "daySequence1--02390.jpg",
+            "daySequence1--02391.jpg",
+            "daySequence1--02392.jpg",
+            "daySequence1--02393.jpg",
+            "daySequence1--02394.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00884.jpg",
+            "daySequence1--00885.jpg",
+            "daySequence1--00886.jpg",
+            "daySequence1--00887.jpg",
+            "daySequence1--00888.jpg",
+            "daySequence1--00889.jpg",
+            "daySequence1--00890.jpg",
+            "daySequence1--00891.jpg",
+            "daySequence1--00892.jpg",
+            "daySequence1--00893.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02045.jpg",
+            "daySequence1--02046.jpg",
+            "daySequence1--02047.jpg",
+            "daySequence1--02048.jpg",
+            "daySequence1--02049.jpg",
+            "daySequence1--02050.jpg",
+            "daySequence1--02051.jpg",
+            "daySequence1--02052.jpg",
+            "daySequence1--02053.jpg",
+            "daySequence1--02054.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02822.jpg",
+            "daySequence1--02823.jpg",
+            "daySequence1--02824.jpg",
+            "daySequence1--02825.jpg",
+            "daySequence1--02826.jpg",
+            "daySequence1--02827.jpg",
+            "daySequence1--02828.jpg",
+            "daySequence1--02829.jpg",
+            "daySequence1--02830.jpg",
+            "daySequence1--02831.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02275.jpg",
+            "daySequence1--02276.jpg",
+            "daySequence1--02277.jpg",
+            "daySequence1--02278.jpg",
+            "daySequence1--02279.jpg",
+            "daySequence1--02280.jpg",
+            "daySequence1--02281.jpg",
+            "daySequence1--02282.jpg",
+            "daySequence1--02283.jpg",
+            "daySequence1--02284.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00180.jpg",
+            "daySequence1--00181.jpg",
+            "daySequence1--00182.jpg",
+            "daySequence1--00183.jpg",
+            "daySequence1--00184.jpg",
+            "daySequence1--00185.jpg",
+            "daySequence1--00186.jpg",
+            "daySequence1--00187.jpg",
+            "daySequence1--00188.jpg",
+            "daySequence1--00189.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02295.jpg",
+            "daySequence1--02296.jpg",
+            "daySequence1--02297.jpg",
+            "daySequence1--02298.jpg",
+            "daySequence1--02299.jpg",
+            "daySequence1--02300.jpg",
+            "daySequence1--02301.jpg",
+            "daySequence1--02302.jpg",
+            "daySequence1--02303.jpg",
+            "daySequence1--02304.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02095.jpg",
+            "daySequence1--02096.jpg",
+            "daySequence1--02097.jpg",
+            "daySequence1--02098.jpg",
+            "daySequence1--02099.jpg",
+            "daySequence1--02100.jpg",
+            "daySequence1--02101.jpg",
+            "daySequence1--02102.jpg",
+            "daySequence1--02103.jpg",
+            "daySequence1--02104.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01028.jpg",
+            "daySequence1--01029.jpg",
+            "daySequence1--01030.jpg",
+            "daySequence1--01031.jpg",
+            "daySequence1--01032.jpg",
+            "daySequence1--01033.jpg",
+            "daySequence1--01034.jpg",
+            "daySequence1--01035.jpg",
+            "daySequence1--01036.jpg",
+            "daySequence1--01037.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02155.jpg",
+            "daySequence1--02156.jpg",
+            "daySequence1--02157.jpg",
+            "daySequence1--02158.jpg",
+            "daySequence1--02159.jpg",
+            "daySequence1--02160.jpg",
+            "daySequence1--02161.jpg",
+            "daySequence1--02162.jpg",
+            "daySequence1--02163.jpg",
+            "daySequence1--02164.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02085.jpg",
+            "daySequence1--02086.jpg",
+            "daySequence1--02087.jpg",
+            "daySequence1--02088.jpg",
+            "daySequence1--02089.jpg",
+            "daySequence1--02090.jpg",
+            "daySequence1--02091.jpg",
+            "daySequence1--02092.jpg",
+            "daySequence1--02093.jpg",
+            "daySequence1--02094.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02175.jpg",
+            "daySequence1--02176.jpg",
+            "daySequence1--02177.jpg",
+            "daySequence1--02178.jpg",
+            "daySequence1--02179.jpg",
+            "daySequence1--02180.jpg",
+            "daySequence1--02181.jpg",
+            "daySequence1--02182.jpg",
+            "daySequence1--02183.jpg",
+            "daySequence1--02184.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00361.jpg",
+            "daySequence1--00362.jpg",
+            "daySequence1--00363.jpg",
+            "daySequence1--00364.jpg",
+            "daySequence1--00365.jpg",
+            "daySequence1--00366.jpg",
+            "daySequence1--00367.jpg",
+            "daySequence1--00368.jpg",
+            "daySequence1--00369.jpg",
+            "daySequence1--00370.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01358.jpg",
+            "daySequence1--01359.jpg",
+            "daySequence1--01360.jpg",
+            "daySequence1--01361.jpg",
+            "daySequence1--01362.jpg",
+            "daySequence1--01363.jpg",
+            "daySequence1--01364.jpg",
+            "daySequence1--01365.jpg",
+            "daySequence1--01366.jpg",
+            "daySequence1--01367.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00211.jpg",
+            "daySequence1--00212.jpg",
+            "daySequence1--00213.jpg",
+            "daySequence1--00214.jpg",
+            "daySequence1--00215.jpg",
+            "daySequence1--00216.jpg",
+            "daySequence1--00217.jpg",
+            "daySequence1--00218.jpg",
+            "daySequence1--00219.jpg",
+            "daySequence1--00220.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00754.jpg",
+            "daySequence1--00755.jpg",
+            "daySequence1--00756.jpg",
+            "daySequence1--00757.jpg",
+            "daySequence1--00758.jpg",
+            "daySequence1--00759.jpg",
+            "daySequence1--00760.jpg",
+            "daySequence1--00761.jpg",
+            "daySequence1--00762.jpg",
+            "daySequence1--00763.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00968.jpg",
+            "daySequence1--00969.jpg",
+            "daySequence1--00970.jpg",
+            "daySequence1--00971.jpg",
+            "daySequence1--00972.jpg",
+            "daySequence1--00973.jpg",
+            "daySequence1--00974.jpg",
+            "daySequence1--00975.jpg",
+            "daySequence1--00976.jpg",
+            "daySequence1--00977.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01218.jpg",
+            "daySequence1--01219.jpg",
+            "daySequence1--01220.jpg",
+            "daySequence1--01221.jpg",
+            "daySequence1--01222.jpg",
+            "daySequence1--01223.jpg",
+            "daySequence1--01224.jpg",
+            "daySequence1--01225.jpg",
+            "daySequence1--01226.jpg",
+            "daySequence1--01227.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03070.jpg",
+            "daySequence1--03071.jpg",
+            "daySequence1--03072.jpg",
+            "daySequence1--03073.jpg",
+            "daySequence1--03074.jpg",
+            "daySequence1--03075.jpg",
+            "daySequence1--03076.jpg",
+            "daySequence1--03077.jpg",
+            "daySequence1--03078.jpg",
+            "daySequence1--03079.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00281.jpg",
+            "daySequence1--00282.jpg",
+            "daySequence1--00283.jpg",
+            "daySequence1--00284.jpg",
+            "daySequence1--00285.jpg",
+            "daySequence1--00286.jpg",
+            "daySequence1--00287.jpg",
+            "daySequence1--00288.jpg",
+            "daySequence1--00289.jpg",
+            "daySequence1--00290.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01058.jpg",
+            "daySequence1--01059.jpg",
+            "daySequence1--01060.jpg",
+            "daySequence1--01061.jpg",
+            "daySequence1--01062.jpg",
+            "daySequence1--01063.jpg",
+            "daySequence1--01064.jpg",
+            "daySequence1--01065.jpg",
+            "daySequence1--01066.jpg",
+            "daySequence1--01067.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00904.jpg",
+            "daySequence1--00905.jpg",
+            "daySequence1--00906.jpg",
+            "daySequence1--00907.jpg",
+            "daySequence1--00908.jpg",
+            "daySequence1--00909.jpg",
+            "daySequence1--00910.jpg",
+            "daySequence1--00911.jpg",
+            "daySequence1--00912.jpg",
+            "daySequence1--00913.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03060.jpg",
+            "daySequence1--03061.jpg",
+            "daySequence1--03062.jpg",
+            "daySequence1--03063.jpg",
+            "daySequence1--03064.jpg",
+            "daySequence1--03065.jpg",
+            "daySequence1--03066.jpg",
+            "daySequence1--03067.jpg",
+            "daySequence1--03068.jpg",
+            "daySequence1--03069.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02782.jpg",
+            "daySequence1--02783.jpg",
+            "daySequence1--02784.jpg",
+            "daySequence1--02785.jpg",
+            "daySequence1--02786.jpg",
+            "daySequence1--02787.jpg",
+            "daySequence1--02788.jpg",
+            "daySequence1--02789.jpg",
+            "daySequence1--02790.jpg",
+            "daySequence1--02791.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01098.jpg",
+            "daySequence1--01099.jpg",
+            "daySequence1--01100.jpg",
+            "daySequence1--01101.jpg",
+            "daySequence1--01102.jpg",
+            "daySequence1--01103.jpg",
+            "daySequence1--01104.jpg",
+            "daySequence1--01105.jpg",
+            "daySequence1--01106.jpg",
+            "daySequence1--01107.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01348.jpg",
+            "daySequence1--01349.jpg",
+            "daySequence1--01350.jpg",
+            "daySequence1--01351.jpg",
+            "daySequence1--01352.jpg",
+            "daySequence1--01353.jpg",
+            "daySequence1--01354.jpg",
+            "daySequence1--01355.jpg",
+            "daySequence1--01356.jpg",
+            "daySequence1--01357.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02065.jpg",
+            "daySequence1--02066.jpg",
+            "daySequence1--02067.jpg",
+            "daySequence1--02068.jpg",
+            "daySequence1--02069.jpg",
+            "daySequence1--02070.jpg",
+            "daySequence1--02071.jpg",
+            "daySequence1--02072.jpg",
+            "daySequence1--02073.jpg",
+            "daySequence1--02074.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00978.jpg",
+            "daySequence1--00979.jpg",
+            "daySequence1--00980.jpg",
+            "daySequence1--00981.jpg",
+            "daySequence1--00982.jpg",
+            "daySequence1--00983.jpg",
+            "daySequence1--00984.jpg",
+            "daySequence1--00985.jpg",
+            "daySequence1--00986.jpg",
+            "daySequence1--00987.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00744.jpg",
+            "daySequence1--00745.jpg",
+            "daySequence1--00746.jpg",
+            "daySequence1--00747.jpg",
+            "daySequence1--00748.jpg",
+            "daySequence1--00749.jpg",
+            "daySequence1--00750.jpg",
+            "daySequence1--00751.jpg",
+            "daySequence1--00752.jpg",
+            "daySequence1--00753.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03030.jpg",
+            "daySequence1--03031.jpg",
+            "daySequence1--03032.jpg",
+            "daySequence1--03033.jpg",
+            "daySequence1--03034.jpg",
+            "daySequence1--03035.jpg",
+            "daySequence1--03036.jpg",
+            "daySequence1--03037.jpg",
+            "daySequence1--03038.jpg",
+            "daySequence1--03039.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02578.jpg",
+            "daySequence1--02579.jpg",
+            "daySequence1--02580.jpg",
+            "daySequence1--02581.jpg",
+            "daySequence1--02582.jpg",
+            "daySequence1--02583.jpg",
+            "daySequence1--02584.jpg",
+            "daySequence1--02585.jpg",
+            "daySequence1--02586.jpg",
+            "daySequence1--02587.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02568.jpg",
+            "daySequence1--02569.jpg",
+            "daySequence1--02570.jpg",
+            "daySequence1--02571.jpg",
+            "daySequence1--02572.jpg",
+            "daySequence1--02573.jpg",
+            "daySequence1--02574.jpg",
+            "daySequence1--02575.jpg",
+            "daySequence1--02576.jpg",
+            "daySequence1--02577.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02115.jpg",
+            "daySequence1--02116.jpg",
+            "daySequence1--02117.jpg",
+            "daySequence1--02118.jpg",
+            "daySequence1--02119.jpg",
+            "daySequence1--02120.jpg",
+            "daySequence1--02121.jpg",
+            "daySequence1--02122.jpg",
+            "daySequence1--02123.jpg",
+            "daySequence1--02124.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01178.jpg",
+            "daySequence1--01179.jpg",
+            "daySequence1--01180.jpg",
+            "daySequence1--01181.jpg",
+            "daySequence1--01182.jpg",
+            "daySequence1--01183.jpg",
+            "daySequence1--01184.jpg",
+            "daySequence1--01185.jpg",
+            "daySequence1--01186.jpg",
+            "daySequence1--01187.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02055.jpg",
+            "daySequence1--02056.jpg",
+            "daySequence1--02057.jpg",
+            "daySequence1--02058.jpg",
+            "daySequence1--02059.jpg",
+            "daySequence1--02060.jpg",
+            "daySequence1--02061.jpg",
+            "daySequence1--02062.jpg",
+            "daySequence1--02063.jpg",
+            "daySequence1--02064.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00311.jpg",
+            "daySequence1--00312.jpg",
+            "daySequence1--00313.jpg",
+            "daySequence1--00314.jpg",
+            "daySequence1--00315.jpg",
+            "daySequence1--00316.jpg",
+            "daySequence1--00317.jpg",
+            "daySequence1--00318.jpg",
+            "daySequence1--00319.jpg",
+            "daySequence1--00320.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00794.jpg",
+            "daySequence1--00795.jpg",
+            "daySequence1--00796.jpg",
+            "daySequence1--00797.jpg",
+            "daySequence1--00798.jpg",
+            "daySequence1--00799.jpg",
+            "daySequence1--00800.jpg",
+            "daySequence1--00801.jpg",
+            "daySequence1--00802.jpg",
+            "daySequence1--00803.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02235.jpg",
+            "daySequence1--02236.jpg",
+            "daySequence1--02237.jpg",
+            "daySequence1--02238.jpg",
+            "daySequence1--02239.jpg",
+            "daySequence1--02240.jpg",
+            "daySequence1--02241.jpg",
+            "daySequence1--02242.jpg",
+            "daySequence1--02243.jpg",
+            "daySequence1--02244.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00998.jpg",
+            "daySequence1--00999.jpg",
+            "daySequence1--01000.jpg",
+            "daySequence1--01001.jpg",
+            "daySequence1--01002.jpg",
+            "daySequence1--01003.jpg",
+            "daySequence1--01004.jpg",
+            "daySequence1--01005.jpg",
+            "daySequence1--01006.jpg",
+            "daySequence1--01007.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00784.jpg",
+            "daySequence1--00785.jpg",
+            "daySequence1--00786.jpg",
+            "daySequence1--00787.jpg",
+            "daySequence1--00788.jpg",
+            "daySequence1--00789.jpg",
+            "daySequence1--00790.jpg",
+            "daySequence1--00791.jpg",
+            "daySequence1--00792.jpg",
+            "daySequence1--00793.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00160.jpg",
+            "daySequence1--00161.jpg",
+            "daySequence1--00162.jpg",
+            "daySequence1--00163.jpg",
+            "daySequence1--00164.jpg",
+            "daySequence1--00165.jpg",
+            "daySequence1--00166.jpg",
+            "daySequence1--00167.jpg",
+            "daySequence1--00168.jpg",
+            "daySequence1--00169.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00804.jpg",
+            "daySequence1--00805.jpg",
+            "daySequence1--00806.jpg",
+            "daySequence1--00807.jpg",
+            "daySequence1--00808.jpg",
+            "daySequence1--00809.jpg",
+            "daySequence1--00810.jpg",
+            "daySequence1--00811.jpg",
+            "daySequence1--00812.jpg",
+            "daySequence1--00813.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03900.jpg",
+            "daySequence1--03901.jpg",
+            "daySequence1--03902.jpg",
+            "daySequence1--03903.jpg",
+            "daySequence1--03904.jpg",
+            "daySequence1--03905.jpg",
+            "daySequence1--03906.jpg",
+            "daySequence1--03907.jpg",
+            "daySequence1--03908.jpg",
+            "daySequence1--03909.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02265.jpg",
+            "daySequence1--02266.jpg",
+            "daySequence1--02267.jpg",
+            "daySequence1--02268.jpg",
+            "daySequence1--02269.jpg",
+            "daySequence1--02270.jpg",
+            "daySequence1--02271.jpg",
+            "daySequence1--02272.jpg",
+            "daySequence1--02273.jpg",
+            "daySequence1--02274.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00221.jpg",
+            "daySequence1--00222.jpg",
+            "daySequence1--00223.jpg",
+            "daySequence1--00224.jpg",
+            "daySequence1--00225.jpg",
+            "daySequence1--00226.jpg",
+            "daySequence1--00227.jpg",
+            "daySequence1--00228.jpg",
+            "daySequence1--00229.jpg",
+            "daySequence1--00230.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02165.jpg",
+            "daySequence1--02166.jpg",
+            "daySequence1--02167.jpg",
+            "daySequence1--02168.jpg",
+            "daySequence1--02169.jpg",
+            "daySequence1--02170.jpg",
+            "daySequence1--02171.jpg",
+            "daySequence1--02172.jpg",
+            "daySequence1--02173.jpg",
+            "daySequence1--02174.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03414.jpg",
+            "daySequence1--03415.jpg",
+            "daySequence1--03416.jpg",
+            "daySequence1--03417.jpg",
+            "daySequence1--03418.jpg",
+            "daySequence1--03419.jpg",
+            "daySequence1--03420.jpg",
+            "daySequence1--03421.jpg",
+            "daySequence1--03422.jpg",
+            "daySequence1--03423.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02802.jpg",
+            "daySequence1--02803.jpg",
+            "daySequence1--02804.jpg",
+            "daySequence1--02805.jpg",
+            "daySequence1--02806.jpg",
+            "daySequence1--02807.jpg",
+            "daySequence1--02808.jpg",
+            "daySequence1--02809.jpg",
+            "daySequence1--02810.jpg",
+            "daySequence1--02811.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00934.jpg",
+            "daySequence1--00935.jpg",
+            "daySequence1--00936.jpg",
+            "daySequence1--00937.jpg",
+            "daySequence1--00938.jpg",
+            "daySequence1--00939.jpg",
+            "daySequence1--00940.jpg",
+            "daySequence1--00941.jpg",
+            "daySequence1--00942.jpg",
+            "daySequence1--00943.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01258.jpg",
+            "daySequence1--01259.jpg",
+            "daySequence1--01260.jpg",
+            "daySequence1--01261.jpg",
+            "daySequence1--01262.jpg",
+            "daySequence1--01263.jpg",
+            "daySequence1--01264.jpg",
+            "daySequence1--01265.jpg",
+            "daySequence1--01266.jpg",
+            "daySequence1--01267.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01268.jpg",
+            "daySequence1--01269.jpg",
+            "daySequence1--01270.jpg",
+            "daySequence1--01271.jpg",
+            "daySequence1--01272.jpg",
+            "daySequence1--01273.jpg",
+            "daySequence1--01274.jpg",
+            "daySequence1--01275.jpg",
+            "daySequence1--01276.jpg",
+            "daySequence1--01277.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02225.jpg",
+            "daySequence1--02226.jpg",
+            "daySequence1--02227.jpg",
+            "daySequence1--02228.jpg",
+            "daySequence1--02229.jpg",
+            "daySequence1--02230.jpg",
+            "daySequence1--02231.jpg",
+            "daySequence1--02232.jpg",
+            "daySequence1--02233.jpg",
+            "daySequence1--02234.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01198.jpg",
+            "daySequence1--01199.jpg",
+            "daySequence1--01200.jpg",
+            "daySequence1--01201.jpg",
+            "daySequence1--01202.jpg",
+            "daySequence1--01203.jpg",
+            "daySequence1--01204.jpg",
+            "daySequence1--01205.jpg",
+            "daySequence1--01206.jpg",
+            "daySequence1--01207.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01158.jpg",
+            "daySequence1--01159.jpg",
+            "daySequence1--01160.jpg",
+            "daySequence1--01161.jpg",
+            "daySequence1--01162.jpg",
+            "daySequence1--01163.jpg",
+            "daySequence1--01164.jpg",
+            "daySequence1--01165.jpg",
+            "daySequence1--01166.jpg",
+            "daySequence1--01167.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01018.jpg",
+            "daySequence1--01019.jpg",
+            "daySequence1--01020.jpg",
+            "daySequence1--01021.jpg",
+            "daySequence1--01022.jpg",
+            "daySequence1--01023.jpg",
+            "daySequence1--01024.jpg",
+            "daySequence1--01025.jpg",
+            "daySequence1--01026.jpg",
+            "daySequence1--01027.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03384.jpg",
+            "daySequence1--03385.jpg",
+            "daySequence1--03386.jpg",
+            "daySequence1--03387.jpg",
+            "daySequence1--03388.jpg",
+            "daySequence1--03389.jpg",
+            "daySequence1--03390.jpg",
+            "daySequence1--03391.jpg",
+            "daySequence1--03392.jpg",
+            "daySequence1--03393.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--04000.jpg",
+            "daySequence1--04001.jpg",
+            "daySequence1--04002.jpg",
+            "daySequence1--04003.jpg",
+            "daySequence1--04004.jpg",
+            "daySequence1--04005.jpg",
+            "daySequence1--04006.jpg",
+            "daySequence1--04007.jpg",
+            "daySequence1--04008.jpg",
+            "daySequence1--04009.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00674.jpg",
+            "daySequence1--00675.jpg",
+            "daySequence1--00676.jpg",
+            "daySequence1--00677.jpg",
+            "daySequence1--00678.jpg",
+            "daySequence1--00679.jpg",
+            "daySequence1--00680.jpg",
+            "daySequence1--00681.jpg",
+            "daySequence1--00682.jpg",
+            "daySequence1--00683.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00191.jpg",
+            "daySequence1--00192.jpg",
+            "daySequence1--00193.jpg",
+            "daySequence1--00194.jpg",
+            "daySequence1--00195.jpg",
+            "daySequence1--00196.jpg",
+            "daySequence1--00197.jpg",
+            "daySequence1--00198.jpg",
+            "daySequence1--00199.jpg",
+            "daySequence1--00200.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00854.jpg",
+            "daySequence1--00855.jpg",
+            "daySequence1--00856.jpg",
+            "daySequence1--00857.jpg",
+            "daySequence1--00858.jpg",
+            "daySequence1--00859.jpg",
+            "daySequence1--00860.jpg",
+            "daySequence1--00861.jpg",
+            "daySequence1--00862.jpg",
+            "daySequence1--00863.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02495.jpg",
+            "daySequence1--02496.jpg",
+            "daySequence1--02497.jpg",
+            "daySequence1--02498.jpg",
+            "daySequence1--02499.jpg",
+            "daySequence1--02500.jpg",
+            "daySequence1--02501.jpg",
+            "daySequence1--02502.jpg",
+            "daySequence1--02503.jpg",
+            "daySequence1--02504.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00834.jpg",
+            "daySequence1--00835.jpg",
+            "daySequence1--00836.jpg",
+            "daySequence1--00837.jpg",
+            "daySequence1--00838.jpg",
+            "daySequence1--00839.jpg",
+            "daySequence1--00840.jpg",
+            "daySequence1--00841.jpg",
+            "daySequence1--00842.jpg",
+            "daySequence1--00843.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01895.jpg",
+            "daySequence1--01896.jpg",
+            "daySequence1--01897.jpg",
+            "daySequence1--01898.jpg",
+            "daySequence1--01899.jpg",
+            "daySequence1--01900.jpg",
+            "daySequence1--01901.jpg",
+            "daySequence1--01902.jpg",
+            "daySequence1--01903.jpg",
+            "daySequence1--01904.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02365.jpg",
+            "daySequence1--02366.jpg",
+            "daySequence1--02367.jpg",
+            "daySequence1--02368.jpg",
+            "daySequence1--02369.jpg",
+            "daySequence1--02370.jpg",
+            "daySequence1--02371.jpg",
+            "daySequence1--02372.jpg",
+            "daySequence1--02373.jpg",
+            "daySequence1--02374.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03950.jpg",
+            "daySequence1--03951.jpg",
+            "daySequence1--03952.jpg",
+            "daySequence1--03953.jpg",
+            "daySequence1--03954.jpg",
+            "daySequence1--03955.jpg",
+            "daySequence1--03956.jpg",
+            "daySequence1--03957.jpg",
+            "daySequence1--03958.jpg",
+            "daySequence1--03959.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00914.jpg",
+            "daySequence1--00915.jpg",
+            "daySequence1--00916.jpg",
+            "daySequence1--00917.jpg",
+            "daySequence1--00918.jpg",
+            "daySequence1--00919.jpg",
+            "daySequence1--00920.jpg",
+            "daySequence1--00921.jpg",
+            "daySequence1--00922.jpg",
+            "daySequence1--00923.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02395.jpg",
+            "daySequence1--02396.jpg",
+            "daySequence1--02397.jpg",
+            "daySequence1--02398.jpg",
+            "daySequence1--02399.jpg",
+            "daySequence1--02400.jpg",
+            "daySequence1--02401.jpg",
+            "daySequence1--02402.jpg",
+            "daySequence1--02403.jpg",
+            "daySequence1--02404.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01118.jpg",
+            "daySequence1--01119.jpg",
+            "daySequence1--01120.jpg",
+            "daySequence1--01121.jpg",
+            "daySequence1--01122.jpg",
+            "daySequence1--01123.jpg",
+            "daySequence1--01124.jpg",
+            "daySequence1--01125.jpg",
+            "daySequence1--01126.jpg",
+            "daySequence1--01127.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03970.jpg",
+            "daySequence1--03971.jpg",
+            "daySequence1--03972.jpg",
+            "daySequence1--03973.jpg",
+            "daySequence1--03974.jpg",
+            "daySequence1--03975.jpg",
+            "daySequence1--03976.jpg",
+            "daySequence1--03977.jpg",
+            "daySequence1--03978.jpg",
+            "daySequence1--03979.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00241.jpg",
+            "daySequence1--00242.jpg",
+            "daySequence1--00243.jpg",
+            "daySequence1--00244.jpg",
+            "daySequence1--00245.jpg",
+            "daySequence1--00246.jpg",
+            "daySequence1--00247.jpg",
+            "daySequence1--00248.jpg",
+            "daySequence1--00249.jpg",
+            "daySequence1--00250.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02515.jpg",
+            "daySequence1--02516.jpg",
+            "daySequence1--02517.jpg",
+            "daySequence1--02518.jpg",
+            "daySequence1--02519.jpg",
+            "daySequence1--02520.jpg",
+            "daySequence1--02521.jpg",
+            "daySequence1--02522.jpg",
+            "daySequence1--02523.jpg",
+            "daySequence1--02524.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02125.jpg",
+            "daySequence1--02126.jpg",
+            "daySequence1--02127.jpg",
+            "daySequence1--02128.jpg",
+            "daySequence1--02129.jpg",
+            "daySequence1--02130.jpg",
+            "daySequence1--02131.jpg",
+            "daySequence1--02132.jpg",
+            "daySequence1--02133.jpg",
+            "daySequence1--02134.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01068.jpg",
+            "daySequence1--01069.jpg",
+            "daySequence1--01070.jpg",
+            "daySequence1--01071.jpg",
+            "daySequence1--01072.jpg",
+            "daySequence1--01073.jpg",
+            "daySequence1--01074.jpg",
+            "daySequence1--01075.jpg",
+            "daySequence1--01076.jpg",
+            "daySequence1--01077.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02548.jpg",
+            "daySequence1--02549.jpg",
+            "daySequence1--02550.jpg",
+            "daySequence1--02551.jpg",
+            "daySequence1--02552.jpg",
+            "daySequence1--02553.jpg",
+            "daySequence1--02554.jpg",
+            "daySequence1--02555.jpg",
+            "daySequence1--02556.jpg",
+            "daySequence1--02557.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--04010.jpg",
+            "daySequence1--04011.jpg",
+            "daySequence1--04012.jpg",
+            "daySequence1--04013.jpg",
+            "daySequence1--04014.jpg",
+            "daySequence1--04015.jpg",
+            "daySequence1--04016.jpg",
+            "daySequence1--04017.jpg",
+            "daySequence1--04018.jpg",
+            "daySequence1--04019.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01318.jpg",
+            "daySequence1--01319.jpg",
+            "daySequence1--01320.jpg",
+            "daySequence1--01321.jpg",
+            "daySequence1--01322.jpg",
+            "daySequence1--01323.jpg",
+            "daySequence1--01324.jpg",
+            "daySequence1--01325.jpg",
+            "daySequence1--01326.jpg",
+            "daySequence1--01327.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01208.jpg",
+            "daySequence1--01209.jpg",
+            "daySequence1--01210.jpg",
+            "daySequence1--01211.jpg",
+            "daySequence1--01212.jpg",
+            "daySequence1--01213.jpg",
+            "daySequence1--01214.jpg",
+            "daySequence1--01215.jpg",
+            "daySequence1--01216.jpg",
+            "daySequence1--01217.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02345.jpg",
+            "daySequence1--02346.jpg",
+            "daySequence1--02347.jpg",
+            "daySequence1--02348.jpg",
+            "daySequence1--02349.jpg",
+            "daySequence1--02350.jpg",
+            "daySequence1--02351.jpg",
+            "daySequence1--02352.jpg",
+            "daySequence1--02353.jpg",
+            "daySequence1--02354.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03374.jpg",
+            "daySequence1--03375.jpg",
+            "daySequence1--03376.jpg",
+            "daySequence1--03377.jpg",
+            "daySequence1--03378.jpg",
+            "daySequence1--03379.jpg",
+            "daySequence1--03380.jpg",
+            "daySequence1--03381.jpg",
+            "daySequence1--03382.jpg",
+            "daySequence1--03383.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00201.jpg",
+            "daySequence1--00202.jpg",
+            "daySequence1--00203.jpg",
+            "daySequence1--00204.jpg",
+            "daySequence1--00205.jpg",
+            "daySequence1--00206.jpg",
+            "daySequence1--00207.jpg",
+            "daySequence1--00208.jpg",
+            "daySequence1--00209.jpg",
+            "daySequence1--00210.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02415.jpg",
+            "daySequence1--02416.jpg",
+            "daySequence1--02417.jpg",
+            "daySequence1--02418.jpg",
+            "daySequence1--02419.jpg",
+            "daySequence1--02420.jpg",
+            "daySequence1--02421.jpg",
+            "daySequence1--02422.jpg",
+            "daySequence1--02423.jpg",
+            "daySequence1--02424.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00734.jpg",
+            "daySequence1--00735.jpg",
+            "daySequence1--00736.jpg",
+            "daySequence1--00737.jpg",
+            "daySequence1--00738.jpg",
+            "daySequence1--00739.jpg",
+            "daySequence1--00740.jpg",
+            "daySequence1--00741.jpg",
+            "daySequence1--00742.jpg",
+            "daySequence1--00743.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02195.jpg",
+            "daySequence1--02196.jpg",
+            "daySequence1--02197.jpg",
+            "daySequence1--02198.jpg",
+            "daySequence1--02199.jpg",
+            "daySequence1--02200.jpg",
+            "daySequence1--02201.jpg",
+            "daySequence1--02202.jpg",
+            "daySequence1--02203.jpg",
+            "daySequence1--02204.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01228.jpg",
+            "daySequence1--01229.jpg",
+            "daySequence1--01230.jpg",
+            "daySequence1--01231.jpg",
+            "daySequence1--01232.jpg",
+            "daySequence1--01233.jpg",
+            "daySequence1--01234.jpg",
+            "daySequence1--01235.jpg",
+            "daySequence1--01236.jpg",
+            "daySequence1--01237.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03990.jpg",
+            "daySequence1--03991.jpg",
+            "daySequence1--03992.jpg",
+            "daySequence1--03993.jpg",
+            "daySequence1--03994.jpg",
+            "daySequence1--03995.jpg",
+            "daySequence1--03996.jpg",
+            "daySequence1--03997.jpg",
+            "daySequence1--03998.jpg",
+            "daySequence1--03999.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03980.jpg",
+            "daySequence1--03981.jpg",
+            "daySequence1--03982.jpg",
+            "daySequence1--03983.jpg",
+            "daySequence1--03984.jpg",
+            "daySequence1--03985.jpg",
+            "daySequence1--03986.jpg",
+            "daySequence1--03987.jpg",
+            "daySequence1--03988.jpg",
+            "daySequence1--03989.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01008.jpg",
+            "daySequence1--01009.jpg",
+            "daySequence1--01010.jpg",
+            "daySequence1--01011.jpg",
+            "daySequence1--01012.jpg",
+            "daySequence1--01013.jpg",
+            "daySequence1--01014.jpg",
+            "daySequence1--01015.jpg",
+            "daySequence1--01016.jpg",
+            "daySequence1--01017.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00958.jpg",
+            "daySequence1--00959.jpg",
+            "daySequence1--00960.jpg",
+            "daySequence1--00961.jpg",
+            "daySequence1--00962.jpg",
+            "daySequence1--00963.jpg",
+            "daySequence1--00964.jpg",
+            "daySequence1--00965.jpg",
+            "daySequence1--00966.jpg",
+            "daySequence1--00967.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03940.jpg",
+            "daySequence1--03941.jpg",
+            "daySequence1--03942.jpg",
+            "daySequence1--03943.jpg",
+            "daySequence1--03944.jpg",
+            "daySequence1--03945.jpg",
+            "daySequence1--03946.jpg",
+            "daySequence1--03947.jpg",
+            "daySequence1--03948.jpg",
+            "daySequence1--03949.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00231.jpg",
+            "daySequence1--00232.jpg",
+            "daySequence1--00233.jpg",
+            "daySequence1--00234.jpg",
+            "daySequence1--00235.jpg",
+            "daySequence1--00236.jpg",
+            "daySequence1--00237.jpg",
+            "daySequence1--00238.jpg",
+            "daySequence1--00239.jpg",
+            "daySequence1--00240.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01328.jpg",
+            "daySequence1--01329.jpg",
+            "daySequence1--01330.jpg",
+            "daySequence1--01331.jpg",
+            "daySequence1--01332.jpg",
+            "daySequence1--01333.jpg",
+            "daySequence1--01334.jpg",
+            "daySequence1--01335.jpg",
+            "daySequence1--01336.jpg",
+            "daySequence1--01337.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02355.jpg",
+            "daySequence1--02356.jpg",
+            "daySequence1--02357.jpg",
+            "daySequence1--02358.jpg",
+            "daySequence1--02359.jpg",
+            "daySequence1--02360.jpg",
+            "daySequence1--02361.jpg",
+            "daySequence1--02362.jpg",
+            "daySequence1--02363.jpg",
+            "daySequence1--02364.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00261.jpg",
+            "daySequence1--00262.jpg",
+            "daySequence1--00263.jpg",
+            "daySequence1--00264.jpg",
+            "daySequence1--00265.jpg",
+            "daySequence1--00266.jpg",
+            "daySequence1--00267.jpg",
+            "daySequence1--00268.jpg",
+            "daySequence1--00269.jpg",
+            "daySequence1--00270.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00301.jpg",
+            "daySequence1--00302.jpg",
+            "daySequence1--00303.jpg",
+            "daySequence1--00304.jpg",
+            "daySequence1--00305.jpg",
+            "daySequence1--00306.jpg",
+            "daySequence1--00307.jpg",
+            "daySequence1--00308.jpg",
+            "daySequence1--00309.jpg",
+            "daySequence1--00310.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03960.jpg",
+            "daySequence1--03961.jpg",
+            "daySequence1--03962.jpg",
+            "daySequence1--03963.jpg",
+            "daySequence1--03964.jpg",
+            "daySequence1--03965.jpg",
+            "daySequence1--03966.jpg",
+            "daySequence1--03967.jpg",
+            "daySequence1--03968.jpg",
+            "daySequence1--03969.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02215.jpg",
+            "daySequence1--02216.jpg",
+            "daySequence1--02217.jpg",
+            "daySequence1--02218.jpg",
+            "daySequence1--02219.jpg",
+            "daySequence1--02220.jpg",
+            "daySequence1--02221.jpg",
+            "daySequence1--02222.jpg",
+            "daySequence1--02223.jpg",
+            "daySequence1--02224.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01288.jpg",
+            "daySequence1--01289.jpg",
+            "daySequence1--01290.jpg",
+            "daySequence1--01291.jpg",
+            "daySequence1--01292.jpg",
+            "daySequence1--01293.jpg",
+            "daySequence1--01294.jpg",
+            "daySequence1--01295.jpg",
+            "daySequence1--01296.jpg",
+            "daySequence1--01297.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02245.jpg",
+            "daySequence1--02246.jpg",
+            "daySequence1--02247.jpg",
+            "daySequence1--02248.jpg",
+            "daySequence1--02249.jpg",
+            "daySequence1--02250.jpg",
+            "daySequence1--02251.jpg",
+            "daySequence1--02252.jpg",
+            "daySequence1--02253.jpg",
+            "daySequence1--02254.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02792.jpg",
+            "daySequence1--02793.jpg",
+            "daySequence1--02794.jpg",
+            "daySequence1--02795.jpg",
+            "daySequence1--02796.jpg",
+            "daySequence1--02797.jpg",
+            "daySequence1--02798.jpg",
+            "daySequence1--02799.jpg",
+            "daySequence1--02800.jpg",
+            "daySequence1--02801.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00694.jpg",
+            "daySequence1--00695.jpg",
+            "daySequence1--00696.jpg",
+            "daySequence1--00697.jpg",
+            "daySequence1--00698.jpg",
+            "daySequence1--00699.jpg",
+            "daySequence1--00700.jpg",
+            "daySequence1--00701.jpg",
+            "daySequence1--00702.jpg",
+            "daySequence1--00703.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01965.jpg",
+            "daySequence1--01966.jpg",
+            "daySequence1--01967.jpg",
+            "daySequence1--01968.jpg",
+            "daySequence1--01969.jpg",
+            "daySequence1--01970.jpg",
+            "daySequence1--01971.jpg",
+            "daySequence1--01972.jpg",
+            "daySequence1--01973.jpg",
+            "daySequence1--01974.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00864.jpg",
+            "daySequence1--00865.jpg",
+            "daySequence1--00866.jpg",
+            "daySequence1--00867.jpg",
+            "daySequence1--00868.jpg",
+            "daySequence1--00869.jpg",
+            "daySequence1--00870.jpg",
+            "daySequence1--00871.jpg",
+            "daySequence1--00872.jpg",
+            "daySequence1--00873.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02485.jpg",
+            "daySequence1--02486.jpg",
+            "daySequence1--02487.jpg",
+            "daySequence1--02488.jpg",
+            "daySequence1--02489.jpg",
+            "daySequence1--02490.jpg",
+            "daySequence1--02491.jpg",
+            "daySequence1--02492.jpg",
+            "daySequence1--02493.jpg",
+            "daySequence1--02494.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02445.jpg",
+            "daySequence1--02446.jpg",
+            "daySequence1--02447.jpg",
+            "daySequence1--02448.jpg",
+            "daySequence1--02449.jpg",
+            "daySequence1--02450.jpg",
+            "daySequence1--02451.jpg",
+            "daySequence1--02452.jpg",
+            "daySequence1--02453.jpg",
+            "daySequence1--02454.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02742.jpg",
+            "daySequence1--02743.jpg",
+            "daySequence1--02744.jpg",
+            "daySequence1--02745.jpg",
+            "daySequence1--02746.jpg",
+            "daySequence1--02747.jpg",
+            "daySequence1--02748.jpg",
+            "daySequence1--02749.jpg",
+            "daySequence1--02750.jpg",
+            "daySequence1--02751.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02732.jpg",
+            "daySequence1--02733.jpg",
+            "daySequence1--02734.jpg",
+            "daySequence1--02735.jpg",
+            "daySequence1--02736.jpg",
+            "daySequence1--02737.jpg",
+            "daySequence1--02738.jpg",
+            "daySequence1--02739.jpg",
+            "daySequence1--02740.jpg",
+            "daySequence1--02741.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00814.jpg",
+            "daySequence1--00815.jpg",
+            "daySequence1--00816.jpg",
+            "daySequence1--00817.jpg",
+            "daySequence1--00818.jpg",
+            "daySequence1--00819.jpg",
+            "daySequence1--00820.jpg",
+            "daySequence1--00821.jpg",
+            "daySequence1--00822.jpg",
+            "daySequence1--00823.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00704.jpg",
+            "daySequence1--00705.jpg",
+            "daySequence1--00706.jpg",
+            "daySequence1--00707.jpg",
+            "daySequence1--00708.jpg",
+            "daySequence1--00709.jpg",
+            "daySequence1--00710.jpg",
+            "daySequence1--00711.jpg",
+            "daySequence1--00712.jpg",
+            "daySequence1--00713.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03404.jpg",
+            "daySequence1--03405.jpg",
+            "daySequence1--03406.jpg",
+            "daySequence1--03407.jpg",
+            "daySequence1--03408.jpg",
+            "daySequence1--03409.jpg",
+            "daySequence1--03410.jpg",
+            "daySequence1--03411.jpg",
+            "daySequence1--03412.jpg",
+            "daySequence1--03413.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02425.jpg",
+            "daySequence1--02426.jpg",
+            "daySequence1--02427.jpg",
+            "daySequence1--02428.jpg",
+            "daySequence1--02429.jpg",
+            "daySequence1--02430.jpg",
+            "daySequence1--02431.jpg",
+            "daySequence1--02432.jpg",
+            "daySequence1--02433.jpg",
+            "daySequence1--02434.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01885.jpg",
+            "daySequence1--01886.jpg",
+            "daySequence1--01887.jpg",
+            "daySequence1--01888.jpg",
+            "daySequence1--01889.jpg",
+            "daySequence1--01890.jpg",
+            "daySequence1--01891.jpg",
+            "daySequence1--01892.jpg",
+            "daySequence1--01893.jpg",
+            "daySequence1--01894.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02752.jpg",
+            "daySequence1--02753.jpg",
+            "daySequence1--02754.jpg",
+            "daySequence1--02755.jpg",
+            "daySequence1--02756.jpg",
+            "daySequence1--02757.jpg",
+            "daySequence1--02758.jpg",
+            "daySequence1--02759.jpg",
+            "daySequence1--02760.jpg",
+            "daySequence1--02761.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--03920.jpg",
+            "daySequence1--03921.jpg",
+            "daySequence1--03922.jpg",
+            "daySequence1--03923.jpg",
+            "daySequence1--03924.jpg",
+            "daySequence1--03925.jpg",
+            "daySequence1--03926.jpg",
+            "daySequence1--03927.jpg",
+            "daySequence1--03928.jpg",
+            "daySequence1--03929.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00321.jpg",
+            "daySequence1--00322.jpg",
+            "daySequence1--00323.jpg",
+            "daySequence1--00324.jpg",
+            "daySequence1--00325.jpg",
+            "daySequence1--00326.jpg",
+            "daySequence1--00327.jpg",
+            "daySequence1--00328.jpg",
+            "daySequence1--00329.jpg",
+            "daySequence1--00330.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01278.jpg",
+            "daySequence1--01279.jpg",
+            "daySequence1--01280.jpg",
+            "daySequence1--01281.jpg",
+            "daySequence1--01282.jpg",
+            "daySequence1--01283.jpg",
+            "daySequence1--01284.jpg",
+            "daySequence1--01285.jpg",
+            "daySequence1--01286.jpg",
+            "daySequence1--01287.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00894.jpg",
+            "daySequence1--00895.jpg",
+            "daySequence1--00896.jpg",
+            "daySequence1--00897.jpg",
+            "daySequence1--00898.jpg",
+            "daySequence1--00899.jpg",
+            "daySequence1--00900.jpg",
+            "daySequence1--00901.jpg",
+            "daySequence1--00902.jpg",
+            "daySequence1--00903.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01128.jpg",
+            "daySequence1--01129.jpg",
+            "daySequence1--01130.jpg",
+            "daySequence1--01131.jpg",
+            "daySequence1--01132.jpg",
+            "daySequence1--01133.jpg",
+            "daySequence1--01134.jpg",
+            "daySequence1--01135.jpg",
+            "daySequence1--01136.jpg",
+            "daySequence1--01137.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01985.jpg",
+            "daySequence1--01986.jpg",
+            "daySequence1--01987.jpg",
+            "daySequence1--01988.jpg",
+            "daySequence1--01989.jpg",
+            "daySequence1--01990.jpg",
+            "daySequence1--01991.jpg",
+            "daySequence1--01992.jpg",
+            "daySequence1--01993.jpg",
+            "daySequence1--01994.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01238.jpg",
+            "daySequence1--01239.jpg",
+            "daySequence1--01240.jpg",
+            "daySequence1--01241.jpg",
+            "daySequence1--01242.jpg",
+            "daySequence1--01243.jpg",
+            "daySequence1--01244.jpg",
+            "daySequence1--01245.jpg",
+            "daySequence1--01246.jpg",
+            "daySequence1--01247.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00664.jpg",
+            "daySequence1--00665.jpg",
+            "daySequence1--00666.jpg",
+            "daySequence1--00667.jpg",
+            "daySequence1--00668.jpg",
+            "daySequence1--00669.jpg",
+            "daySequence1--00670.jpg",
+            "daySequence1--00671.jpg",
+            "daySequence1--00672.jpg",
+            "daySequence1--00673.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00764.jpg",
+            "daySequence1--00765.jpg",
+            "daySequence1--00766.jpg",
+            "daySequence1--00767.jpg",
+            "daySequence1--00768.jpg",
+            "daySequence1--00769.jpg",
+            "daySequence1--00770.jpg",
+            "daySequence1--00771.jpg",
+            "daySequence1--00772.jpg",
+            "daySequence1--00773.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02025.jpg",
+            "daySequence1--02026.jpg",
+            "daySequence1--02027.jpg",
+            "daySequence1--02028.jpg",
+            "daySequence1--02029.jpg",
+            "daySequence1--02030.jpg",
+            "daySequence1--02031.jpg",
+            "daySequence1--02032.jpg",
+            "daySequence1--02033.jpg",
+            "daySequence1--02034.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00291.jpg",
+            "daySequence1--00292.jpg",
+            "daySequence1--00293.jpg",
+            "daySequence1--00294.jpg",
+            "daySequence1--00295.jpg",
+            "daySequence1--00296.jpg",
+            "daySequence1--00297.jpg",
+            "daySequence1--00298.jpg",
+            "daySequence1--00299.jpg",
+            "daySequence1--00300.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00724.jpg",
+            "daySequence1--00725.jpg",
+            "daySequence1--00726.jpg",
+            "daySequence1--00727.jpg",
+            "daySequence1--00728.jpg",
+            "daySequence1--00729.jpg",
+            "daySequence1--00730.jpg",
+            "daySequence1--00731.jpg",
+            "daySequence1--00732.jpg",
+            "daySequence1--00733.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02325.jpg",
+            "daySequence1--02326.jpg",
+            "daySequence1--02327.jpg",
+            "daySequence1--02328.jpg",
+            "daySequence1--02329.jpg",
+            "daySequence1--02330.jpg",
+            "daySequence1--02331.jpg",
+            "daySequence1--02332.jpg",
+            "daySequence1--02333.jpg",
+            "daySequence1--02334.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02525.jpg",
+            "daySequence1--02526.jpg",
+            "daySequence1--02527.jpg",
+            "daySequence1--02528.jpg",
+            "daySequence1--02529.jpg",
+            "daySequence1--02530.jpg",
+            "daySequence1--02531.jpg",
+            "daySequence1--02532.jpg",
+            "daySequence1--02533.jpg",
+            "daySequence1--02534.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02105.jpg",
+            "daySequence1--02106.jpg",
+            "daySequence1--02107.jpg",
+            "daySequence1--02108.jpg",
+            "daySequence1--02109.jpg",
+            "daySequence1--02110.jpg",
+            "daySequence1--02111.jpg",
+            "daySequence1--02112.jpg",
+            "daySequence1--02113.jpg",
+            "daySequence1--02114.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00341.jpg",
+            "daySequence1--00342.jpg",
+            "daySequence1--00343.jpg",
+            "daySequence1--00344.jpg",
+            "daySequence1--00345.jpg",
+            "daySequence1--00346.jpg",
+            "daySequence1--00347.jpg",
+            "daySequence1--00348.jpg",
+            "daySequence1--00349.jpg",
+            "daySequence1--00350.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--01138.jpg",
+            "daySequence1--01139.jpg",
+            "daySequence1--01140.jpg",
+            "daySequence1--01141.jpg",
+            "daySequence1--01142.jpg",
+            "daySequence1--01143.jpg",
+            "daySequence1--01144.jpg",
+            "daySequence1--01145.jpg",
+            "daySequence1--01146.jpg",
+            "daySequence1--01147.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00130.jpg",
+            "daySequence1--00131.jpg",
+            "daySequence1--00132.jpg",
+            "daySequence1--00133.jpg",
+            "daySequence1--00134.jpg",
+            "daySequence1--00135.jpg",
+            "daySequence1--00136.jpg",
+            "daySequence1--00137.jpg",
+            "daySequence1--00138.jpg",
+            "daySequence1--00139.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--00150.jpg",
+            "daySequence1--00151.jpg",
+            "daySequence1--00152.jpg",
+            "daySequence1--00153.jpg",
+            "daySequence1--00154.jpg",
+            "daySequence1--00155.jpg",
+            "daySequence1--00156.jpg",
+            "daySequence1--00157.jpg",
+            "daySequence1--00158.jpg",
+            "daySequence1--00159.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02505.jpg",
+            "daySequence1--02506.jpg",
+            "daySequence1--02507.jpg",
+            "daySequence1--02508.jpg",
+            "daySequence1--02509.jpg",
+            "daySequence1--02510.jpg",
+            "daySequence1--02511.jpg",
+            "daySequence1--02512.jpg",
+            "daySequence1--02513.jpg",
+            "daySequence1--02514.jpg"
+        ],
+        "label": [
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "images": [
+            "daySequence1--02538.jpg",
+            "daySequence1--02539.jpg",
+            "daySequence1--02540.jpg",
+            "daySequence1--02541.jpg",
+            "daySequence1--02542.jpg",
+            "daySequence1--02543.jpg",
+            "daySequence1--02544.jpg",
+            "daySequence1--02545.jpg",
+            "daySequence1--02546.jpg",
+            "daySequence1--02547.jpg"
+        ],
+        "label": [
+            1,
+            0,
+            1,
+            0
+        ]
+    }
+]
