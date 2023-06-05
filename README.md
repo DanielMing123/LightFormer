@@ -1,5 +1,5 @@
 # LightFormer
-An End-to-End Model for Urban Intersection Drivability Recognition Using Traffic Light Signals and Attention Mechanism
+LightFormer: An End-to-End Model for Intersection Right-of-Way Recognition Using Traffic Light Signals and an Attention Mechanism
 
 # Overall Architecture
 ![image](https://github.com/DanielMing123/LightFormer/blob/main/imgs/new2_arc.jpg)
