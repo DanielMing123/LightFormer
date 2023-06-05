@@ -1,8 +1,9 @@
 # LightFormer
 An End-to-End Model for Urban Intersection Drivability Recognition Using Traffic Light Signals and Attention Mechanism
 
-# Inner Structure
+# Overall Architecture
 ![image](https://github.com/DanielMing123/LightFormer/blob/main/imgs/new2_arc.jpg)
+# Encoder Layer Inner Structure
 ![image](https://github.com/DanielMing123/LightFormer/blob/main/imgs/new_encoder.jpg)
 # Installation
 * CUDA>=11.7
