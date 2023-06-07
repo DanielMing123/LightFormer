@@ -15,7 +15,7 @@ class Decoder(nn.Module):
         B, K, _,_ = agent_all_feature.shape 
         prob = self.mul_arcface(agent_all_feature,lable)
         prob = prob.view(B, self.config['n'], self.config['out_class_num'], 1) 
-        # res, idx = torch.max(prob, dim=1) 
-        res = torch.mean(prob, dim=1)
+        res, idx = torch.max(prob, dim=1) 
+        # res = torch.mean(prob, dim=1)
         res = F.softmax(res, dim=1) 
         return res
