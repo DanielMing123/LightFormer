@@ -1,6 +1,6 @@
 # LightFormer
 LightFormer: An End-to-End Model for Intersection Right-of-Way Recognition Using Traffic Light Signals and an Attention Mechanism
-
+![image](https://github.com/DanielMing123/LightFormer/blob/main/imgs/LightFormer.png)
 # Overall Architecture
 ![image](https://github.com/DanielMing123/LightFormer/blob/main/imgs/crop_LightFormer_page-0001.jpg)
 # Encoder Layer Inner Structure
